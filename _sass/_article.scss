@@ -1,0 +1,37 @@
+@import "variables";
+
+#articles {
+	padding-top: 10%;
+}
+
+.article {
+	width: 50%;
+	margin-bottom: 100px;
+	transition: .2s ease all;
+	padding-left: 20px;
+	border-left: 1px solid transparent;
+	&:hover {
+		margin-left: 15px;
+		border-left: 2px solid $text-color;
+	}
+}
+
+.article-publication {
+	margin-bottom: 10px;
+}
+
+.article-title {
+	margin-bottom: 15px;
+}
+
+.article-description {
+	margin-bottom: 10px;
+	opacity: 0.9;
+}
+
+.article-date {
+	font-family: FaktPro-Light;
+	font-size: 16px;
+	color: $text-color;
+	opacity: 0.9;
+}

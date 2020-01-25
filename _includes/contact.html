@@ -1,0 +1,15 @@
+<section id="contact" class="section-default">
+	<div class="section-title-container sticky-top">
+		<h4 class="section-title">Contact Me</h4>
+	</div>
+	<div class="section-container">
+		<div class="section-text">
+			<h2>Find me on the Internet</h2>
+			<div id="contact-links">
+				{% for item in site.data.contact.items %}
+					<a href="{{item.link}}"><h4>{{item.name}}</h4></a>
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+</section>

@@ -1,0 +1,41 @@
+@import "variables";
+
+a {
+	&:hover {
+		text-decoration: none;
+	}
+}
+
+h1 {
+	font-family: EksellDisplay-Large;
+	color: $text-color;
+}
+
+h2 {
+	font-family: EksellDisplaySmall;
+	font-size: 35px;
+	color: $text-color;
+}
+
+h4 {
+	font-family: AirbnbCerealApp-Bold;
+	font-size: 14px;
+	color: $text-color;
+	letter-spacing: 1.8px;
+	text-transform: uppercase;
+}
+
+p {
+	font-family: FaktPro-Blond;
+	font-size: 18px;
+	color: $text-color;
+	line-height: 28px;
+}
+
+.link {
+	/*border-bottom: 1px solid transparent;
+	transition: .2s all;
+	&:hover {
+		border-bottom: 1px solid #00000050;
+	}*/
+}

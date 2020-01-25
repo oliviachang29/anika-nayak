@@ -1,0 +1,11 @@
+<section id="articles" class="section-default">
+	<div class="section-title-container sticky-top">
+		<h4 class="section-title">My Work</h4>
+	</div>
+	<div class="section-container">
+		{% assign articles = site.articles | sort: "date" %}
+		{% for article in articles %}
+			{% include article.html article=article %}
+		{% endfor %}
+	</div>
+</section>

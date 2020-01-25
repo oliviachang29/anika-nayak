@@ -1,0 +1,5 @@
+<div id="contact-links" class="links-container">
+	{% for item in site.data.contact.items %}
+		<a href="{{item.link}}" class="link"><h4>{{item.name}}</h4></a>
+	{% endfor %}
+</div>
