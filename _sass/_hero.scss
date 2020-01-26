@@ -48,7 +48,7 @@
 }
 
 #hero-name {
-	/*font-family: KingBasilLite-Regular;*/
+	font-family: King Basil Lite;
 	font-size: 15vw;
 	color: $text-color;
 	letter-spacing: 0;
@@ -68,8 +68,8 @@ https://stackoverflow.com/questions/40528290/how-to-implement-max-font-size
 	margin-top: 3%;
 	font-size: 12px;
 	@media (min-width: $sm) {
-		/*margin-top: 0px;*/
-		margin-top: 20px;
+		margin-top: 0px;
+		/*margin-top: 20px;*/
 	}
 	@media (min-width: $lg) {
 		font-size: inherit;
