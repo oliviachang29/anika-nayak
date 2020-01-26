@@ -1,5 +1,40 @@
 @import "variables";
 
+@font-face {
+	font-family: 'Eksell Display';
+	src: url('/assets/fonts/Eksell Display Small.otf')  format('opentype');
+	font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+	font-family: 'Eksell Display';
+	src: url('/assets/fonts/Eksell Display Large.otf')  format('opentype');
+	font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+	font-family: 'Airbnb Cereal';
+	src: url('/assets/fonts/AirbnbCereal-Bold.ttf')  format('truetype');
+	font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+	font-family: 'Fakt Pro';
+	src: url('/assets/fonts/FaktPro-Blond.ttf')  format('truetype');
+	font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+	font-family: 'Fakt Pro';
+	src: url('/assets/fonts/FaktPro-Light.ttf')  format('truetype');
+	font-weight: 100;
+  font-style: normal;
+}
+
 a {
 	&:hover {
 		text-decoration: none;
@@ -7,18 +42,20 @@ a {
 }
 
 h1 {
-	font-family: EksellDisplay-Large;
+	font-family: Eksell Display;
+	font-weight: bold;
 	color: $text-color;
 }
 
 h2 {
-	font-family: EksellDisplaySmall;
+	font-family: Eksell Display;
+	font-weight: normal;
 	font-size: 35px;
 	color: $text-color;
 }
 
 h4 {
-	font-family: AirbnbCerealApp-Bold;
+	font-family: Airbnb Cereal;
 	font-size: 14px;
 	color: $text-color;
 	letter-spacing: 1.8px;
@@ -26,7 +63,7 @@ h4 {
 }
 
 p {
-	font-family: FaktPro-Blond;
+	font-family: Fakt Pro;
 	font-size: 18px;
 	color: $text-color;
 	line-height: 28px;
