@@ -1,0 +1,16 @@
+---
+label: General Data
+hide_body: true
+fields:
+- type: text
+  name: heading
+  label: heading
+- type: text
+  name: subheading
+  label: subheading
+- type: text
+  name: scroll_down_text
+  label: scroll_down_text
+- type: textarea
+  name: about_text
+  label: about_text
