@@ -1,6 +1,5 @@
 title: Anika Nayak
-description: >
-
+seo_description: Freelance journalist.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -16,3 +15,9 @@ collections:
   articles:
     title: Articles
     output: false
+
+about_text: >
+  Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+heading: anika nayak
+subheading: Freelance journalist
+scroll_down_text: "Say hello"
