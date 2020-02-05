@@ -9,6 +9,12 @@ sections:
   label: Articles
   create: all
   match: "**/*"
+- type: directory
+  label: Data
+  path: data
+  match: "*.yml"
+  new_doc_ext: ".yml"
+  create: all
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

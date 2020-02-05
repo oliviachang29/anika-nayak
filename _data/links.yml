@@ -1,0 +1,14 @@
+navigation:
+  - name: Work
+    section: "articles"
+  - name: About
+    section: "about"
+contact:
+  - name: Email
+    url: "mailto: anikasnayak@gmail.com"
+  - name: Linkedin
+    url: "https://www.linkedin.com/in/anika-nayak"
+  - name: Instagram
+    url: "https://www.instagram.com/anika.ny"
+  - name: Twitter
+    url: "https://www.twitter.com/anikanayak"
