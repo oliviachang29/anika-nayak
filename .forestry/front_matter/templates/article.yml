@@ -4,16 +4,29 @@ hide_body: true
 fields:
 - type: text
   name: publication
-  label: publication
+  label: Publication
+  description: The publication in which the article was published. i.e. Teen Vogue,
+    The Lily, etc.
 - type: text
   name: title
-  label: title
+  label: Article Title
+  config:
+    required: true
 - type: text
   name: description
-  label: description
+  label: Article Description
+  description: Either a description of the article or the short subheading underneath
+    it.
+  config:
+    required: false
 - type: text
   name: date
-  label: date
+  label: Date
+  description: The date the article was published.
+  config:
+    required: false
 - type: text
   name: link
-  label: link
+  label: Link
+  description: Link to the article (URL format, in https://www.mysite.com). Copy and
+    paste the URL from the search box.
