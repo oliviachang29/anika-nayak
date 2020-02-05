@@ -11,7 +11,7 @@ sections:
   match: "**/*"
 - type: directory
   label: Data
-  path: data
+  path: _data
   match: "*.yml"
   new_doc_ext: ".yml"
   create: all
