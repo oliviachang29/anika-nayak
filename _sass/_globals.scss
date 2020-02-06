@@ -25,6 +25,15 @@ html, body {
 	}
 }
 
+.links-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	a {
+		margin-right: 30px;
+	}
+}
+
 #nav-links {
 	position: fixed;
 	top: 0;
@@ -33,13 +42,9 @@ html, body {
 	z-index: 2;
 }
 
-.links-container {
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-	a {
-		margin-right: 30px;
-	}
+
+#contact-links {
+	margin-bottom: 30px;
 }
 
 .section-default {
@@ -74,9 +79,6 @@ html, body {
 	transform: rotate(-90deg);
 }
 
-#about {
-}
-
 .section-text {
 	width: 80%;
 	@media (min-width: $md) {
@@ -88,7 +90,10 @@ html, body {
 	}
 }
 
-#contact-links {
-	margin-bottom: 30px;
+#work {
+	padding-top: calc(100px + 4vh);
+	padding-bottom: calc(100px + 5vh);
+}
 
+#about {
 }

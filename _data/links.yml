@@ -1,6 +1,6 @@
 navigation:
   - name: Work
-    section: "articles"
+    section: "work"
   - name: About
     section: "about"
 contact:
