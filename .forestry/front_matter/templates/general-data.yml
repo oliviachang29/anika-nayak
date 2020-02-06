@@ -29,3 +29,5 @@ fields:
   name: about_text
   label: About Text
   description: Text that appears in the About Me section.
+pages:
+- _data/general.yml
