@@ -4,13 +4,28 @@ hide_body: true
 fields:
 - type: text
   name: heading
-  label: heading
+  label: Heading
+  description: The words that appear in the large cursive font.
+  config:
+    required: true
+    max: '20'
 - type: text
   name: subheading
-  label: subheading
+  label: Subheading
+  description: The short phrase that appears underneath the large cursive text.
+  config:
+    required: true
+    min: '0'
+    max: '35'
 - type: text
   name: scroll_down_text
-  label: scroll_down_text
+  label: Scroll Down Text
+  description: Words that appear above the pulsating circle.
+  config:
+    required: true
+    min: '0'
+    max: '30'
 - type: textarea
   name: about_text
-  label: about_text
+  label: About Text
+  description: Text that appears in the About Me section.
