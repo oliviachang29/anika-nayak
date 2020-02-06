@@ -1,0 +1,24 @@
+---
+label: Links Data
+hide_body: true
+fields:
+- type: field_group_list
+  name: navigation
+  label: navigation
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: section
+    label: section
+- type: field_group_list
+  name: contact
+  label: contact
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: url
+    label: url
