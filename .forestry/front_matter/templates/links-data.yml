@@ -8,17 +8,25 @@ fields:
   fields:
   - type: text
     name: name
-    label: name
+    label: Name
+    description: Section name.
   - type: text
     name: section
-    label: section
+    label: Section Link
+    description: Section link for navigation.
+    hidden: true
+  hidden: true
 - type: field_group_list
   name: contact
-  label: contact
+  label: Contact Links
   fields:
   - type: text
     name: name
-    label: name
+    label: Name
+    description: 'Name of the link. ex: Email, Linkedin, Facebook, Twitter, etc.'
   - type: text
     name: url
-    label: url
+    label: URL
+    description: URL format, in https://www.mysite.com. Copy and paste the URL from
+      the search box.
+  description: Contact links at the bottom of the site.
