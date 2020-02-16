@@ -1,0 +1,10 @@
+---
+layout: section
+id: words
+side_title: Words
+title: My Portfolio
+permalink: '/words'
+---
+<h1 class="section-title section-articles-title">{{ page.title }}</h1>
+{% assign articles = site.words | sort: "date" | reverse %}
+{% include articles.html articles=articles %}

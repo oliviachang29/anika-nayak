@@ -1,0 +1,134 @@
+@import "variables";
+
+#hero {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+#hero-text {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	align-items: center;
+	justify-content: space-between;
+}
+
+#lines {
+	display: flex;
+	width: 100%;
+	height: 100%;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	position: fixed;
+}
+
+.line {
+	height: 2px;
+	opacity: 0.8;
+	width: 15%;
+	background-color: $text-color;
+	display: none;
+	z-index: 0;
+	@media (min-width: $sm) {
+		display: block;
+	}
+}
+
+.line-left {
+	margin-left: 2%;
+}
+.line-right {
+	margin-right: 2%;
+}
+
+#hero-name {
+	font-family: King Basil Lite;
+	font-weight: normal;
+	font-size: 15vw;
+	color: $text-color;
+	letter-spacing: 0;
+	@media (min-width: $sm) {
+		font-size: 9vw;
+	}
+	@media (min-width: $xlg) {
+		/*font-size: 100px;*/
+		font-size: 120px;
+	}
+}
+
+/*
+https://stackoverflow.com/questions/40528290/how-to-implement-max-font-size
+*/
+#subheading {
+	margin-top: 3%;
+	font-size: 12px;
+	@media (min-width: $sm) {
+		margin-top: 0px;
+		/*margin-top: 20px;*/
+	}
+	@media (min-width: $lg) {
+		font-size: inherit;
+	}
+}
+
+#scroll-down-button {
+	/* position at bottom of page*/
+	position: absolute;
+	bottom: 0;
+	margin-bottom: 50px;
+	/* to center the text within the circle */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	h4 {
+		margin-top: 10px;
+		white-space: nowrap;	
+	}
+}
+
+$original-opacity: 0.2;
+
+.circle {
+	height: 60px;
+	width: 60px;
+	border: 1px solid $text-color;
+	opacity: $original-opacity;
+	border-radius: 1000px;
+	position: absolute;
+	animation: button-pulse 3s infinite;
+	transform: scale(1);
+}
+
+@keyframes button-pulse {
+	0% {
+		transform: scale(1);
+		opacity: $original-opacity;
+	}
+	90% {
+		transform: scale(1.5);
+		opacity: 0;
+	}
+	91% {
+		transform: scale(1);
+		opacity: 0;
+	}
+	100% {
+		opacity: $original-opacity;
+	}
+}
+
+#about {
+	margin-top: 200px;
+	padding-bottom: 100px;
+
+	h1 {
+		font-size: 50px;
+		margin-bottom: 30px
+	}
+}

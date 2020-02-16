@@ -1,0 +1,10 @@
+---
+layout: section
+id: press
+side_title: Press
+title: Press Coverage
+permalink: '/press'
+---
+<h1 class="section-title section-articles-title">{{ page.title }}</h1>
+{% assign articles = site.press | sort: "date" | reverse %}
+{% include articles.html articles=articles %}

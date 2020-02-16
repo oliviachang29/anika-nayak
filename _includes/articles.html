@@ -1,0 +1,10 @@
+{% for article in include.articles %}
+	<a href="{{ article.link }}" target="_blank">
+		<div class="article">
+			<h4 class="article-publication">{{ article.publication }}</h4>
+			<h2 class="article-title">{{ article.title }}</h2>
+			<p class="article-description">{{ article.description }}</p>
+			<!-- <p class="article-date">{{ article.date | date: "%B %-d, %Y"}}</p> -->
+		</div>
+	</a>
+{% endfor %}
