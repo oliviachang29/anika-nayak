@@ -1,15 +1,21 @@
 ---
 navigation:
-- name: Work
-  section: work
 - name: About
-  section: about
+  section: 
+- name: Words
+  section: words
+- name: Projects
+  section: projects
+- name: Press
+  section: press
+- name: Contact
+  section: press
 contact:
-- name: Email
+- type: Email
   url: 'mailto: anikasnayak@gmail.com'
-- name: Linkedin
+- type: Linkedin
   url: https://www.linkedin.com/in/anika-nayak
-- name: Instagram
+- type: Instagram
   url: https://www.instagram.com/anika.ny
-- name: Twitter
+- type: Twitter
   url: https://www.twitter.com/anikanayak

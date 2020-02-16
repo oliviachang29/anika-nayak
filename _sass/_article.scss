@@ -1,10 +1,9 @@
 @import "variables";
 
 .article {
-	width: 50%;
-	margin-bottom: 100px;
-	transition: .2s ease all;
-	padding-left: 20px;
+	margin-bottom: 60px;
+	@include smooth-transition;
+	padding-left: $article-padding-left;
 	border-left: 1px solid transparent;
 	&:hover {
 		margin-left: 15px;
@@ -18,6 +17,7 @@
 
 .article-title {
 	margin-bottom: 15px;
+	font-size: 30px;
 }
 
 .article-description {

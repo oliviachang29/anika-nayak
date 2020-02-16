@@ -1,10 +1,32 @@
-<div id="nav">
+<nav>
 	<a href="/" id="logo">
 		<img src="/assets/images/logo.png">
 	</a>
-	<div id="nav-links" class="links-container">
-		{% for link in site.data.links.navigation %}
-			<a href="#{{link.section}}" class="link"><h4>{{link.name}}</h4></a>
+	<div class="centering-container">
+		<div id="nav-links" class="links-container">
+			{% for link in site.data.links.navigation %}
+				<a href="/{{link.section}}" class="link"><h4>{{link.name}}</h4></a>
+			{% endfor %}
+		</div>
+	</div>
+	<div id="contact-links" class="links-container">
+		{% for link in site.data.links.contact %}
+			<a class="contact-icon" href="#{{link.url}}">
+            	<i class="
+            	{% case link.type %}
+				  {% when 'Twitter' %}
+				     fab fa-twitter
+				  {% when 'Facebook' %}
+				    fab fa-facebook
+				  {% when 'Email' %}
+				    fas fa-envelope
+				  {% when 'Instagram' %}
+				    fab fa-instagram
+				  {% when 'Linkedin' %}
+				    fab fa-linkedin
+				{% endcase %}
+				"></i>
+			</a>
 		{% endfor %}
 	</div>
-</div>
+</nav>

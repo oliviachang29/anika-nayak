@@ -12,6 +12,12 @@ exclude:
 sass:
   style: compressed
 collections:
-  articles:
-    title: Articles
+  words:
+    title: Words
+    output: false
+  press:
+    title: Press
+    output: false
+  projects:
+    title: Projects
     output: false

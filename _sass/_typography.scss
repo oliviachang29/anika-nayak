@@ -49,8 +49,8 @@ a {
 }
 
 h1 {
-	/*font-family: Eksell Display;*/
-	/*font-weight: bold;*/
+	font-family: Eksell Display;
+	font-weight: bold;
 	color: $text-color;
 }
 
@@ -81,7 +81,7 @@ p {
 
 .link {
 	/*border-bottom: 1px solid transparent;
-	transition: .2s all;
+	@include smooth-transition;
 	&:hover {
 		border-bottom: 1px solid #00000050;
 	}*/

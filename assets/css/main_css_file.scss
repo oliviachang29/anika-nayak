@@ -2,5 +2,10 @@
 ---
 @import "globals";
 @import "typography";
-@import "hero";
+@import "navigation";
+@import "section";
 @import "article";
+
+/* individual pages */
+@import "about";
+@import "projects";
