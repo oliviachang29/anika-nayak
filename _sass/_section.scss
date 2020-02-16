@@ -12,17 +12,10 @@
 	padding: 200px 0 150px;
 }
 
-.section-flex-container {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	width: 100%;
-	/*margin-left: -100px; // offset .section-title-container*/
-}
-
 /* need to make this responsive */
 .section-container {
 	width: 50%;
+	margin: 0 auto;
 }
 
 .section-title-container {

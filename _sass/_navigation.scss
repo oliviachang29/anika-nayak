@@ -32,6 +32,10 @@ nav {
 	flex-direction: row;
 }
 
+@mixin nav-link-selected {
+	border-bottom: 1.5px solid $text-color !important;
+}
+
 /* About, Words, Press, etc. */
 /* Centered at top */
 #nav-links {
@@ -42,10 +46,17 @@ nav {
 		margin-right: 30px;
 		border-bottom: 1.5px solid transparent;
 		/*padding-bottom: 1px;*/
+		.current {
+			@include nav-link-selected;
+		}
 		&:hover {
-			border-bottom: 1.5px solid $text-color;
+			@include nav-link-selected;
 		}
 	}
+}
+
+#nav-links a.link.current {
+	@include nav-link-selected;
 }
 
 /* Social Media Contact Links */

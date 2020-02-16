@@ -1,5 +1,17 @@
-// function initJS() {
-	var scroll = new SmoothScroll('a[href*="#"]');
+function markCurrentLink(target) {
+  $('#nav-links a').each(function() {
+    if ($(this).prop('href') == window.location.href) {
+      $(this).addClass('current');
+    } else {
+      $(this).removeClass('current');
+    }
+  });
+}
+
+
+function initJS() {
+	markCurrentLink()
+	// var scroll = new SmoothScroll('a[href*="#"]');
 
 	// fix lines appearing when you reload in middle of page
 	$(window).scroll(function(){
@@ -14,12 +26,13 @@
       this.style.opacity = 1;
     });
   });
-// }
+}
 
-// $(function() {
-//   initJS()
- //  const swup = new Swup();
-	// swup.on('contentReplaced', function() {
-	//   initJS();
-	// });
-// });
+$(function() {
+  const swup = new Swup();
+	swup.on('contentReplaced', function() {
+	  initJS();
+	});
+});
+
+initJS()

@@ -13,6 +13,23 @@ html, body {
   z-index: 1;
 }
 
+.transition-fade {
+    transition: .5s;
+    opacity: 1;
+}
+html.is-animating .transition-fade{
+    opacity: 0;
+}
+
+.not-selectable {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
 #copyright {
 	font-family: Airbnb Cereal;
 	color: #939393;
