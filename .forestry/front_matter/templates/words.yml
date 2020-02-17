@@ -1,0 +1,19 @@
+---
+label: Words
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: id
+  label: id
+- type: text
+  name: side_title
+  label: side_title
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink

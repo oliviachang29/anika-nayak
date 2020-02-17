@@ -12,15 +12,12 @@ sections:
 - type: document
   path: views/words.md
   label: Words
-  match: "**/*"
 - type: document
   path: index.md
   label: About
-  match: "**/*"
 - type: document
   path: views/contact.md
   label: Contact
-  match: "**/*"
 - type: directory
   path: _press
   label: Press
