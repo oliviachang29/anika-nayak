@@ -24,3 +24,4 @@ fields:
   hidden: true
 pages:
 - views/contact.md
+- views/words.md

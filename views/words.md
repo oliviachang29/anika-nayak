@@ -3,7 +3,8 @@ layout: words
 id: words
 side_title: Words
 title: Words
-permalink: '/words'
+permalink: "/words"
+
 ---
 #### Elite Daily
 [These 5 Gen Z Activists Are The Next Wave Of Black History](https://www.elitedaily.com/p/these-5-gen-z-activists-are-the-next-wave-of-black-history-21793860)
