@@ -4,16 +4,22 @@ hide_body: true
 fields:
 - type: text
   name: publication
-  label: publication
+  label: Publication
 - type: text
   name: title
-  label: title
+  label: Title
+  description: Article title
+  config:
+    required: true
 - type: textarea
   name: description
-  label: description
+  label: Description
 - type: text
   name: date
-  label: date
+  label: Date
+  description: Date article was published (used to sort the articles by date)
 - type: textarea
   name: link
-  label: link
+  label: Link
+  description: URL format, in https://www.mysite.com. Copy and paste the URL from
+    the search box.
