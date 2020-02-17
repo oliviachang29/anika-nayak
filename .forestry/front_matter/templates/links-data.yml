@@ -21,14 +21,14 @@ fields:
   label: Contact Links
   fields:
   - type: text
-    name: name
-    label: Name
-    description: 'Name of the link. ex: Email, Linkedin, Facebook, Twitter, etc.'
+    name: type
+    label: Type
+    description: 'Link type, ex: Email, Linkedin, Facebook, Twitter, etc.'
   - type: text
     name: url
     label: URL
     description: URL format, in https://www.mysite.com. Copy and paste the URL from
       the search box.
-  description: Contact links at the bottom of the site.
+  description: Social media links in the top right
 pages:
 - _data/links.yml
