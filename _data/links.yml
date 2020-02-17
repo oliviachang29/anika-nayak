@@ -9,7 +9,7 @@ navigation:
 - name: Press
   section: press
 - name: Contact
-  section: press
+  section: contact
 contact:
 - type: Email
   url: 'mailto: anikasnayak@gmail.com'

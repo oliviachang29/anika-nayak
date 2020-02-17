@@ -12,9 +12,10 @@
 }
 
 .project-container {
-	margin-bottom: 60px;
+	/*border-top: 1.5px solid black;*/
+	/*padding-top: 20px;*/
+	margin-bottom: 80px;
 	cursor: pointer;
-	/*padding-right: 20px;*/
 	&:hover {
 		.project-image {
 			-webkit-transform:scale(1.1);
@@ -39,8 +40,19 @@
 	@include smooth-transition;
 }
 
-.project-title {
-	margin: 25px 0 15px;
+.project-time-frame {
+	margin-top: 5px;
+	color: #626262;
+	font-size: 16px;
+}
+
+.project-type {
+	margin-bottom: 17.5px;
+	margin-left: 2.5px;
+}
+
+.project-role {
+	margin: 20px 0 12.5px;
 }
 
 .project-subheading {

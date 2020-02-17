@@ -6,10 +6,11 @@
 	flex-direction: row;
 	justify-content: center;
 	align-items: center;
+	min-height: 100vh;
 }
 
 .section-page {
-	padding: 200px 0 150px;
+	padding: 200px 0;
 }
 
 /* need to make this responsive */

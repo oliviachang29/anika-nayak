@@ -11,13 +11,15 @@ permalink: '/projects'
 	{% for project in projects %}
 		<div class="col-lg-6">
 			<div class="project-container">
+				<h4 class="project-type">{{project.type}}</h4>
 				<div class="project-image-container">
 					<img src="/assets/images/lazy.jpg" data-src="{{project.image_url}}" class="lazy project-image">
 				</div>
-				<h2 class="project-title">{{project.title}}</h2>
+				<h2 class="project-role">{{project.role}}</h2>
 				<div class="project-subheading">
-					<h4>{{project.type}}</h4><p class="project-description">{{project.description}}</p>
+					<h4>{{project.institution}}</h4><p class="project-description">{{project.description}}</p>
 				</div>
+				<p class="project-time-frame">{{project.time_frame}}</p>
 			</div>
 		</div>
 	{% endfor %}

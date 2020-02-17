@@ -1,0 +1,21 @@
+@import "variables";
+
+.static-container {
+	a {
+		color: $text-color;
+		text-decoration: underline;
+	}
+}
+
+.section-title-static {
+	margin-bottom: 30px;
+}
+
+.words-container {
+	h4 {
+		margin-top: 30px;
+	}
+	p {
+		margin-bottom: 0px;
+	}
+}
