@@ -4,31 +4,29 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: index.md
+  label: About
+- type: document
+  path: views/words.md
+  label: Words
 - type: directory
   path: _projects
   label: Projects
   create: all
   match: "**/*"
-- type: document
-  path: views/words.md
-  label: Words
-- type: document
-  path: index.md
-  label: About
-- type: document
-  path: views/contact.md
-  label: Contact
 - type: directory
   path: _press
   label: Press
   create: all
   match: "**/*"
-- type: directory
-  path: _data
-  label: Settings
-  create: all
-  match: "*.yml"
-  new_doc_ext: yml
+- type: document
+  path: views/contact.md
+  label: Contact
+- type: document
+  path: _data/links.yml
+  label: Social Media Links
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

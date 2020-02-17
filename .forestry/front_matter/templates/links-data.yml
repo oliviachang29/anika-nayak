@@ -30,5 +30,3 @@ fields:
     description: URL format, in https://www.mysite.com. Copy and paste the URL from
       the search box.
   description: Social media links in the top right
-pages:
-- _data/links.yml

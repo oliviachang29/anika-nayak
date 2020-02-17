@@ -25,5 +25,3 @@ fields:
     required: true
     min: '0'
     max: '30'
-pages:
-- _data/general.yml
