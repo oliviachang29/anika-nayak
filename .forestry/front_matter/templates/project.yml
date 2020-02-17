@@ -1,0 +1,22 @@
+---
+label: Project
+hide_body: true
+fields:
+- type: text
+  name: type
+  label: type
+- type: text
+  name: role
+  label: role
+- type: text
+  name: institution
+  label: institution
+- type: text
+  name: time_frame
+  label: time_frame
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: image_url
+  label: image_url
