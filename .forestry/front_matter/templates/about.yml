@@ -5,18 +5,24 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: heading
-  label: heading
+  label: Heading
+  description: Text that appears in cursive.
 - type: text
   name: subheading
-  label: subheading
+  label: Subheading
+  description: Text that appears *under* the cursive font.
 - type: text
   name: hero_cta_text
-  label: hero_cta_text
+  label: Call to Action Text
+  description: Text that appears above the pulsating circle
 - type: text
   name: about_title
-  label: about_title
+  label: About Title
+  description: Title of the About Me section.
 - type: text
   name: about_side_title
-  label: about_side_title
+  label: About Side Title
+  description: Text that appears on the side of the About Me section.
