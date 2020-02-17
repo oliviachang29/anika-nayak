@@ -4,8 +4,9 @@
 	a {
 		color: $text-color;
 		text-decoration: underline;
+		@include smooth-transition;
 		&:hover {
-			opacity: 0.7;
+			opacity: 0.8;
 		}
 	}
 }
