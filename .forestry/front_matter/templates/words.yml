@@ -5,15 +5,20 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: id
   label: id
+  hidden: true
 - type: text
   name: side_title
-  label: side_title
+  label: Side Title
+  description: The text that appears on the side.
 - type: text
   name: title
-  label: title
+  label: Title
+  description: Title of the page.
 - type: text
   name: permalink
   label: permalink
+  hidden: true
