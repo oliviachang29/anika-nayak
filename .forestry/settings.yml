@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: views/contact.md
+  label: Contact
+  match: "**/*"
 - type: directory
   path: _articles
   label: Articles

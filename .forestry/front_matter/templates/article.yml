@@ -31,9 +31,3 @@ fields:
   label: Link
   description: Link to the article (URL format, in https://www.mysite.com). Copy and
     paste the URL from the search box.
-pages:
-- _articles/5-mother-daughter-pairs-share-how-they-practice-self-care-together.md
-- _articles/5-teens-tell-us-what-they-think-about-mental-health-days-in-school.md
-- _articles/how-to-unlock-better-mental-health-stanford-research.md
-- _articles/meet-4-young-activists-revolutionizing-mental-health-services.md
-- _articles/sustainable-gift-ideas-2019.md
