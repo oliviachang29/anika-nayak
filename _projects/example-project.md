@@ -1,8 +1,10 @@
 ---
-type: "Consulting"
-role: "Intern"
-institution: "Another institution"
-time_frame: "Mar 2019 - present"
-description: Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.
+type: Consulting
+role: Consultant
+institution: BroglieBox LLC
+time_frame: Feb 2020 - Present
+description: I am working with BroglieBox LLC, a mental wellness company, on market
+  research and product development related to student mental healthcare.
 image_url: "/uploads/mae-mu-_C5zsV_p-YI-unsplash.jpg"
+
 ---
