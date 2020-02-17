@@ -10,6 +10,7 @@ permalink: '/words'
 
 #### i-D
 [5 teens tell us what they think about mental health days in school](https://i-d.vice.com/en_us/article/evjqd4/5-teens-tell-us-what-they-think-about-mental-health-days-in-school)
+
 [meet 4 young activists revolutionizing mental health services](https://i-d.vice.com/en_us/article/d3ae3y/meet-4-young-activists-revolutionizing-mental-health-services)
 
 #### Teen Vogue
