@@ -1,9 +1,10 @@
 ---
-type: Research
-role: Example Role
-institution: Example Instituion
-time_frame: Jan 2019 - Jan 2020
-description: Maecenas sed diam eget risus varius blandit sit amet non magna.
+type: Editing
+role: Freelance Editor
+institution: Urban Asian
+time_frame: August 2018 - Present
+description: 'I am bringing a diverse set of voices to Urban Asian by editing stories
+  and calling for pitches from freelance writers. '
 image_url: "/uploads/mae-mu-sVvYPOmF8DA-unsplash.jpg"
 
 ---
