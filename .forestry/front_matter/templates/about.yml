@@ -1,0 +1,22 @@
+---
+label: About
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: heading
+  label: heading
+- type: text
+  name: subheading
+  label: subheading
+- type: text
+  name: hero_cta_text
+  label: hero_cta_text
+- type: text
+  name: about_title
+  label: about_title
+- type: text
+  name: about_side_title
+  label: about_side_title
