@@ -1,0 +1,19 @@
+---
+label: Press
+hide_body: true
+fields:
+- type: text
+  name: publication
+  label: publication
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: date
+  label: date
+- type: textarea
+  name: link
+  label: link
