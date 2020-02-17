@@ -1,7 +1,7 @@
 ---
 navigation:
 - name: About
-  section: 
+  section: ''
 - name: Words
   section: words
 - name: Projects
