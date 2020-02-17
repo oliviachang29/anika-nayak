@@ -20,3 +20,5 @@ fields:
 - type: file
   name: image_url
   label: image_url
+pages:
+- _projects/example-project-2.md
