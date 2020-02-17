@@ -18,16 +18,12 @@ fields:
     min: '0'
     max: '35'
 - type: text
-  name: scroll_down_text
-  label: Scroll Down Text
+  name: hero_cta_text
+  label: Call to Action Text
   description: Words that appear above the pulsating circle.
   config:
     required: true
     min: '0'
     max: '30'
-- type: textarea
-  name: about_text
-  label: About Text
-  description: Text that appears in the About Me section.
 pages:
 - _data/general.yml
