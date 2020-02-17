@@ -4,13 +4,26 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: _projects
+  label: Projects
+  create: all
+  match: "**/*"
+- type: document
+  path: views/words.md
+  label: Words
+  match: "**/*"
+- type: document
+  path: index.md
+  label: About
+  match: "**/*"
 - type: document
   path: views/contact.md
   label: Contact
   match: "**/*"
 - type: directory
-  path: _articles
-  label: Articles
+  path: _press
+  label: Press
   create: all
   match: "**/*"
 - type: directory
