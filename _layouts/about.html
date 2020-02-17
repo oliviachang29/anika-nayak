@@ -8,10 +8,10 @@ layout: default
 
 <section id="hero">
 	<div id="hero-text">
-		<h1 id="hero-name">{{ site.data.general.heading }}</h1>
-		<h4 id="subheading">{{ site.data.general.subheading }}</h4>
+		<h1 id="hero-name">{{ page.heading }}</h1>
+		<h4 id="subheading">{{ page.subheading }}</h4>
 		<a href="/contact" id="scroll-down-button">
-			<h4 class="link">{{ site.data.general.hero_cta_text }}</h4>
+			<h4 class="link">{{ page.hero_cta_text }}</h4>
 			<div class="circle"></div>
 		</a>
 	</div>
@@ -19,11 +19,11 @@ layout: default
 
 <section id="about" class="section-default">
 	<div class="section-title-container sticky-top">
-		<h4 class="section-side-title">About Me</h4>
+		<h4 class="section-side-title">{{ page.about_side_title }}</h4>
 	</div>
 	<div class="section-flex-container">
 		<div class="section-container section-container-about">
-			<h1>About Me</h1>
+			<h1>{{page.about_title}}</h1>
 			{{ content }}
 		</div>
 	</div>

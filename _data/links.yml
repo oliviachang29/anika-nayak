@@ -11,8 +11,8 @@ navigation:
 - name: Contact
   section: contact
 contact:
-- type: Email
-  url: 'mailto: anikasnayak@gmail.com'
+- type: Facebook
+  url: https://www.facebook.com/anikasnayak
 - type: Linkedin
   url: https://www.linkedin.com/in/anika-nayak
 - type: Instagram
