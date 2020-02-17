@@ -3,7 +3,8 @@ layout: static
 id: contact
 side_title: Say Hello
 title: Contact Me
-permalink: '/contact'
+permalink: "/contact"
+
 ---
 For all Urban Asian related inquiries and pitches, please contact Anika through her professional email: [anika@urbanasian.com](mailto:anika@urbanasian.com)
 
