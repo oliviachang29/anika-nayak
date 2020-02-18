@@ -2,12 +2,10 @@
 	<a href="/" id="logo">
 		<img src="/assets/images/logo.png">
 	</a>
-	<div class="centering-container">
-		<div id="nav-links" class="links-container">
-			{% for link in site.data.links.navigation %}
-				<a href="/{{link.section}}" class="link"><h4>{{link.name}}</h4></a>
-			{% endfor %}
-		</div>
+	<div id="nav-links" class="links-container">
+		{% for link in site.data.links.navigation %}
+			<a href="/{{link.section}}" class="link"><h4>{{link.name}}</h4></a>
+		{% endfor %}
 	</div>
 	<div id="contact-links" class="links-container">
 		{% for link in site.data.links.contact %}

@@ -1,21 +1,8 @@
 @import "variables";
 
-nav {
-	
-}
-
-.centering-container {
-	z-index: 100;
-	position: absolute;
-	width: 100%;
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-	/*background-color: $background-color;*/
-	padding-bottom: 30px;
-}
-
 #logo {
+	top: 0;
+	left: 0;
 	z-index: 150;
 	position: fixed;
 	margin: 30px;
@@ -36,11 +23,15 @@ nav {
 	border-bottom: 1.5px solid $text-color !important;
 }
 
+
 /* About, Words, Press, etc. */
 /* Centered at top */
 #nav-links {
 	justify-content: center;
+	align-items: center;
 	margin-top: 30px;
+	z-index: 100;
+
 	a {
 		@include smooth-transition;
 		margin-right: 30px;

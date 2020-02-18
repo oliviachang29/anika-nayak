@@ -58,10 +58,7 @@ h2 {
 	font-family: Eksell Display;
 	font-weight: normal;
 	color: $text-color;
-	font-size: 4.5vw;
-	@media (min-width: $md) {
-		font-size: 35px;	
-	}
+	font-size: 35px;	
 }
 
 h4 {

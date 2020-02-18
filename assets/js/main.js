@@ -15,11 +15,21 @@ function initJS() {
 
 	// fix lines appearing when you reload in middle of page
 	$(window).scroll(function(){
-		// $(".line").css("width", "10%");
+		var lines = $(".line");
+		var side_title = $('.section-side-title-fixed');
 		var width = (15 - ($(window).scrollTop() / 20)).toString() + "%";
-		// console.log(width)
-	    $(".line").css("width", width);
-	  });
+		lines.css("width", width);
+		if ($(window).scrollTop() > 300) {
+			lines.fadeOut()
+		} else {
+			lines.fadeIn()
+		}
+    if ($(window).scrollTop() > 200) {
+        side_title.fadeIn();
+    } else {
+        side_title.fadeOut();
+    }
+	});
 
 	$(".lazy").unveil(100, function() {
     $(this).on('load', function() {
