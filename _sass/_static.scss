@@ -28,6 +28,13 @@
 	}
 }
 
+.section-container-press {
+	@media (min-width: $lg) {
+		width: 80%;
+		margin: 0 auto;
+	}
+}
+
 .section-container-contact {
 	@media (min-width: $lg) {
 		width: 60%;

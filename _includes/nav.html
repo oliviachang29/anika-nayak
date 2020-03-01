@@ -2,7 +2,7 @@
 	{% include logo.html type="desktop" %}
 	<div id="nav-links" class="links-container">
 		{% for link in site.data.links.navigation %}
-			<a href="/{{link.section}}" class="link"><h4>{{link.name}}</h4></a>
+			<a href="/{{link.section}}" class="nav-link link"><h4>{{link.name}}</h4></a>
 		{% endfor %}
 	</div>
 	{% include contact_links.html %}

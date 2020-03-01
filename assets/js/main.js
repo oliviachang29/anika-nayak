@@ -1,5 +1,5 @@
 function markCurrentLink(target) {
-  $('.nav-item a').each(function() {
+  $('.nav-link').each(function() {
     if ($(this).prop('href') == window.location.href) {
       $(this).addClass('current');
     } else {

@@ -89,13 +89,16 @@ nav {
 		@include smooth-transition;
 		margin-right: 30px;
 		border-bottom: 1.5px solid transparent;
-		/*padding-bottom: 1px;*/
-		.current {
-			@include nav-link-selected;
-		}
 		&:hover {
 			@include nav-link-selected;
 		}
+	}
+}
+
+.nav-link {
+	padding: 0;
+	@media (max-width: $lg) {
+		margin: 10px 0 !important;
 	}
 }
 
