@@ -1,16 +1,20 @@
 {% for article in include.articles %}
-	<a href="{{ article.link }}" target="_blank">
-		<div class="article">
-			{% if article.publication and article.publication != "" and article.publication != nil %}
-				<h4 class="article-publication">{{ article.publication }}</h4>
-			{% endif %}
-			{% if article.title and article.title != "" and article.title != nil %}
-				<h2 class="article-title">{{ article.title }}</h2>
-			{% endif %}
-			{% if article.description and article.description != "" and article.description != nil %}
-				<p class="article-description">{{ article.description }}</p>
-			{% endif %}
-			<!-- <p class="article-date">{{ article.date | date: "%B %-d, %Y"}}</p> -->
-		</div>
-	</a>
+	{% if article.is_video %}
+		{{ article.embed_content }}
+	{% else %}
+		<a href="{{ article.link }}" target="_blank">
+			<div class="article">
+				{% if article.publication and article.publication != "" and article.publication != nil %}
+					<h4 class="article-publication">{{ article.publication }}</h4>
+				{% endif %}
+				{% if article.title and article.title != "" and article.title != nil %}
+					<h2 class="article-title">{{ article.title }}</h2>
+				{% endif %}
+				{% if article.description and article.description != "" and article.description != nil %}
+					<p class="article-description">{{ article.description }}</p>
+				{% endif %}
+				<!-- <p class="article-date">{{ article.date | date: "%B %-d, %Y"}}</p> -->
+			</div>
+		</a>
+	{% endif %}
 {% endfor %}
