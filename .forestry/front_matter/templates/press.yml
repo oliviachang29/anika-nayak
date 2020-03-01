@@ -5,7 +5,8 @@ fields:
 - name: is_video
   type: boolean
   label: This is a video
-  description: Toggle true if the article is a video
+  description: 'Toggle true if the article is a video. Note: only Youtube videos are
+    supported.'
   default: false
 - type: text
   name: publication
