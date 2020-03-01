@@ -118,7 +118,7 @@ a.nav-link.link.current {
 
 /* Social Media Contact Links */
 .contact-icon {
-	color: black;
+	color: $text-color;
 	margin-right: 20px;
 	font-size: 20px;
 	@include smooth-transition;

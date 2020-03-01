@@ -6,21 +6,6 @@ h1, h2, h3, h4, h5, p {
 	color: {{ site.data.colors.default_text_color }};
 }
 
-#hero-name {
-	color: {{ site.data.colors.heading }};
-}
-
-#subheading {
-	color: {{ site.data.colors.subheading }};
-}
-
-#hero-cta-text {
-	color: {{ site.data.colors.subheading }};
-}
-
-.nav-link {
-	color: {{ site.data.colors.nav_link }} !important;	
-}
 
 h1 {
 	color: {{ site.data.colors.h1 }} !important;
@@ -40,4 +25,24 @@ p {
 
 a {
 	color: {{ site.data.colors.a }} !important;
+}
+
+#hero-name {
+	color: {{ site.data.colors.heading }};
+}
+
+#subheading {
+	color: {{ site.data.colors.subheading }};
+}
+
+#hero-cta-text {
+	color: {{ site.data.colors.subheading }};
+}
+
+.nav-link {
+	color: {{ site.data.colors.nav_link }} !important;	
+}
+
+.contact-icon {
+	color: {{ site.data.colors.contact_icon }} !important;
 }
