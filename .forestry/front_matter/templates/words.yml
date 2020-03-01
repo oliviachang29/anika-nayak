@@ -13,7 +13,7 @@ fields:
 - type: text
   name: side_title
   label: Side Title
-  description: The text that appears on the side.
+  description: The text that appears on the side when you scroll.
 - type: text
   name: title
   label: Title
