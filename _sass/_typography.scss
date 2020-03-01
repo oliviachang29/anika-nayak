@@ -35,6 +35,13 @@
   font-style: normal;
 }
 
+@font-face {
+	font-family: 'Fakt Pro';
+	src: url('/assets/fonts/FaktPro-Medium.ttf')  format('truetype');
+	font-weight: bold;
+  font-style: normal;
+}
+
 a {
 	&:hover {
 		text-decoration: none;
@@ -67,6 +74,11 @@ p {
 	font-size: 18px;
 	color: $text-color;
 	line-height: 28px;
+}
+
+strong {
+	font-family: Fakt Pro;
+	font-weight: bold;
 }
 
 .link {
