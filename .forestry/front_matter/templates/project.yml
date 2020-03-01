@@ -1,6 +1,7 @@
 ---
 label: Project
 hide_body: true
+display_field: institution
 fields:
 - type: text
   name: type
