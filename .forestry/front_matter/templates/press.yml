@@ -17,7 +17,7 @@ fields:
   label: Title
   description: Article title
   config:
-    required: true
+    required: false
   showOnly:
     field: is_video
 - type: textarea
@@ -30,7 +30,7 @@ fields:
   label: Date
   description: Date article was published (used to sort the articles by date)
   config:
-    required: false
+    required: true
 - type: textarea
   name: link
   label: Link
