@@ -53,5 +53,6 @@ fields:
     field: is_video
     value: true
 pages:
+- _press/aspirations.md
 - _press/unconventional-podcast.md
 - _press/wtsp.md
