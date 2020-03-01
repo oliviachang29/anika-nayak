@@ -11,6 +11,8 @@ navigation:
 - name: Contact
   section: contact
 contact:
+- type: Github
+  url: https://example.com
 - type: Linkedin
   url: https://www.linkedin.com/in/anika-nayak
 - type: Instagram
