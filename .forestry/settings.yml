@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Pages
 - type: document
   path: index.md
   label: About
@@ -27,6 +29,12 @@ sections:
 - type: document
   path: views/contact.md
   label: Contact
+- type: heading
+  label: Settings
+- type: document
+  path: _data/colors.yml
+  label: Colors
+  match: "**/*"
 - type: document
   path: _data/links.yml
   label: Social Media Links
