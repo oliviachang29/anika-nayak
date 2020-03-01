@@ -49,5 +49,7 @@ fields:
       the search box.
   description: 'Social media links in the top right. Supported links: Twitter, Facebook,
     Email, Instagram, LinkedIn, Github, Youtube, Snapchat, Discord.'
+  config:
+    labelField: type
 pages:
 - _data/links.yml
