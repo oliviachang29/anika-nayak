@@ -1,9 +1,9 @@
 html, body, .navbar-collapse, .show-background-color {
-	background-color: {{ site.data.colors.background_color }};
+	background-color: {{ site.data.colors.background }};
 }
 
 h1, h2, h3, h4, h5, p {
-	color: {{ site.data.colors.default_text_color }};
+	color: {{ site.data.colors.default_text }};
 }
 
 

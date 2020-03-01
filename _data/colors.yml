@@ -1,5 +1,5 @@
 background: '#F7F7F7'
-default_text_color: '#000000'
+default_text: '#000000'
 heading: '#000000'
 subheading: '#000000'
 hero_cta_text: '#000000'
