@@ -8,13 +8,13 @@ layout: default
 
 <section id="hero">
 	<div id="hero-text">
-		<h1 id="hero-name">{{ page.heading }}</h1>
+		<h1 id="heading">{{ page.heading }}</h1>
 		{% if page.subheading and page.subheading != "" and page.subheading != nil %}
 			<h4 id="subheading">{{ page.subheading }}</h4>
 		{% endif %}
 		{% if page.hero_cta_text and page.hero_cta_text != "" and page.hero_cta_text != nil %}
 			<a href="/contact" id="scroll-down-button">
-				<h4 class="link">{{ page.hero_cta_text }}</h4>
+				<h4 class="link" id="hero-cta-text">{{ page.hero_cta_text }}</h4>
 				<div class="circle"></div>
 			</a>
 		{% endif %}

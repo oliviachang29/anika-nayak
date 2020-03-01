@@ -44,12 +44,12 @@ $('.navbar-nav>li>a').on('click', function(){
 
 // navbar open
 $('.navbar-collapse').on('shown.bs.collapse', function() {
-	$('#nav-mobile').css("background-color", "#F7F7F7");
+	$('#nav-mobile').addClass("show-background-color");
 });
 
 // navbar close
 $('.navbar-collapse').on('hide.bs.collapse', function() {
-	$('#nav-mobile').css("background-color", "transparent");
+	$('#nav-mobile').removeClass("show-background-color");
 });
 
 $(function() {

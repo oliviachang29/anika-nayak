@@ -7,5 +7,5 @@ description: As a member of this foundation, I strive to impact my community thr
   service. In June 2019, we ventured to Panama City to help residents in the aftermath
   of Hurricane Michael.
 image_url: "/uploads/Screen Shot 2020-02-17 at 12.38.45 AM.png"
-
+link: 'http://ryannecefoundation.com/'
 ---

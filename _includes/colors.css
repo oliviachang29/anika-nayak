@@ -1,0 +1,43 @@
+html, body, .navbar-collapse, .show-background-color {
+	background-color: {{ site.data.colors.background_color }};
+}
+
+h1, h2, h3, h4, h5, p {
+	color: {{ site.data.colors.default_text_color }};
+}
+
+#hero-name {
+	color: {{ site.data.colors.heading }};
+}
+
+#subheading {
+	color: {{ site.data.colors.subheading }};
+}
+
+#hero-cta-text {
+	color: {{ site.data.colors.subheading }};
+}
+
+.nav-link {
+	color: {{ site.data.colors.nav_link }} !important;	
+}
+
+h1 {
+	color: {{ site.data.colors.h1 }} !important;
+}
+
+h2 {
+	color: {{ site.data.colors.h2 }} !important;
+}
+
+h4 {
+	color: {{ site.data.colors.h4 }} !important;
+}
+
+p {
+	color: {{ site.data.colors.p }} !important;
+}
+
+a {
+	color: {{ site.data.colors.a }} !important;
+}
