@@ -1,30 +1,27 @@
-<nav>
-	<a href="/" id="logo">
-		<img src="/assets/images/logo.png">
-	</a>
+<nav id="nav-desktop">
+	{% include logo.html type="desktop" %}
 	<div id="nav-links" class="links-container">
 		{% for link in site.data.links.navigation %}
 			<a href="/{{link.section}}" class="link"><h4>{{link.name}}</h4></a>
 		{% endfor %}
 	</div>
-	<div id="contact-links" class="links-container">
-		{% for link in site.data.links.contact %}
-			<a class="contact-icon" target="_blank" href="{{link.url}}">
-            	<i class="
-            	{% case link.type %}
-				  {% when 'Twitter' %}
-				     fab fa-twitter
-				  {% when 'Facebook' %}
-				    fab fa-facebook
-				  {% when 'Email' %}
-				    fas fa-envelope
-				  {% when 'Instagram' %}
-				    fab fa-instagram
-				  {% when 'Linkedin' %}
-				    fab fa-linkedin
-				{% endcase %}
-				"></i>
-			</a>
-		{% endfor %}
-	</div>
+	{% include contact_links.html %}
+</nav>
+
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="nav-mobile">
+  {% include logo.html type="mobile" %}
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse justify-content-between" id="navbarSupportedContent">
+    <ul class="navbar-nav">
+    	{% for link in site.data.links.navigation %}
+	    	<li class="nav-item">
+	    		<a href="/{{link.section}}" class="nav-link link"><h4>{{link.name}}</h4></a>
+	      </li>
+			{% endfor %}
+    </ul>
+    <hr class="mobile-divider">
+    {% include contact_links.html %}
+  </div>
 </nav>

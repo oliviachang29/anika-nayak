@@ -1,0 +1,20 @@
+<div id="contact-links" class="links-container">
+	{% for link in site.data.links.contact %}
+	<a class="contact-icon" target="_blank" href="{{link.url}}">
+	    <i class="
+	        {% case link.type %}
+				  {% when 'Twitter' %}
+				     fab fa-twitter
+				  {% when 'Facebook' %}
+				    fab fa-facebook
+				  {% when 'Email' %}
+				    fas fa-envelope
+				  {% when 'Instagram' %}
+				    fab fa-instagram
+				  {% when 'Linkedin' %}
+				    fab fa-linkedin
+				{% endcase %}
+			"></i>
+		</a>
+	{% endfor %}
+</div>

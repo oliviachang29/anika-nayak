@@ -1,18 +1,9 @@
 @import "variables";
 
-.section-container-projects {
-	width: 80%;
-	@media (min-width: $xlg) {
-		width: 70%;
-	}
-}
-
 .project-container {
-	/*border-top: 1.5px solid black;*/
-	/*padding-top: 20px;*/
 	margin-bottom: 80px;
-	cursor: pointer;
-	&:hover {
+	/*cursor: pointer;*/
+/*	&:hover {
 		.project-image {
 			-webkit-transform:scale(1.1);
 		    -moz-transform:scale(1.1);
@@ -20,7 +11,7 @@
 		    -o-transform:scale(1.1);
 		     transform:scale(1.1);
 		}
-	}
+	}*/
 }
 
 .project-image-container {

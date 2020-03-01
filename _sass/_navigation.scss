@@ -1,12 +1,53 @@
 @import "variables";
 
-#logo {
+nav {
+	z-index: 1030;
+}
+
+#nav-desktop {
+	@media (max-width: $lg) {
+		display: none;
+	}
+	margin-bottom: -50px;
+}
+
+#nav-mobile {
+	@media (min-width: $lg) {
+		display: none;
+	}
+	margin-bottom: -100px;
+	height: 100px;
+	@include smooth-transition;
+}
+
+.navbar-collapse {
+	background-color: $background-color;
+	padding: 0 30px 20px;
+}
+
+.navbar-toggler {
+	color: black !important;
+	border: none;
+	&:focus {
+		outline: none;
+	}
+}
+
+.logo-mobile {
+	margin: 20px;
+	color: $text-color;
+	img {
+		height: 40px;
+		width: auto;
+	}
+}
+
+.logo-desktop {
 	top: 0;
 	left: 0;
 	z-index: 150;
 	position: fixed;
 	margin: 30px;
-	color: $text-color;
 	img {
 		width: 5vw;
 		height: auto;
@@ -19,8 +60,20 @@
 	flex-direction: row;
 }
 
+.mobile-divider {
+	margin-top: 0.3rem;
+	@media (min-width: $lg) {
+		display: none;
+	}
+}
+
 @mixin nav-link-selected {
-	border-bottom: 1.5px solid $text-color !important;
+	@media (max-width: $lg) {
+		opacity: 0.3;
+	}
+	@media (min-width: $lg) {
+		border-bottom: 1.5px solid $text-color !important;
+	}
 }
 
 
@@ -46,22 +99,24 @@
 	}
 }
 
-#nav-links a.link.current {
+a.nav-link.link.current {
 	@include nav-link-selected;
 }
 
-/* Social Media Contact Links */
-/* Top right */
 #contact-links {
-	z-index: 100;
-	position: fixed;
-	top: 0;
-	right: 0;
+	@media (min-width: $lg) {
+		z-index: 100;
+		position: fixed;
+		top: 0;
+		right: 0;
+		margin: 30px;
+	}
 }
 
+/* Social Media Contact Links */
 .contact-icon {
 	color: black;
-	margin: 20px 20px 0 0;
+	margin-right: 20px;
 	font-size: 20px;
 	@include smooth-transition;
 	&:hover {

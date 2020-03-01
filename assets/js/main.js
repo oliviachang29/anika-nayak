@@ -1,5 +1,5 @@
 function markCurrentLink(target) {
-  $('#nav-links a').each(function() {
+  $('.nav-item a').each(function() {
     if ($(this).prop('href') == window.location.href) {
       $(this).addClass('current');
     } else {
@@ -37,6 +37,20 @@ function initJS() {
     });
   });
 }
+
+$('.navbar-nav>li>a').on('click', function(){
+    $('.navbar-collapse').collapse('hide');
+});
+
+// navbar open
+$('.navbar-collapse').on('shown.bs.collapse', function() {
+	$('#nav-mobile').css("background-color", "#F7F7F7");
+});
+
+// navbar close
+$('.navbar-collapse').on('hide.bs.collapse', function() {
+	$('#nav-mobile').css("background-color", "transparent");
+});
 
 $(function() {
   const swup = new Swup();

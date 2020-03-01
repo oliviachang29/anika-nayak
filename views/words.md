@@ -1,5 +1,5 @@
 ---
-layout: words
+layout: static
 id: words
 side_title: Words
 title: Words

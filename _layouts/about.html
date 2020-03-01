@@ -9,11 +9,15 @@ layout: default
 <section id="hero">
 	<div id="hero-text">
 		<h1 id="hero-name">{{ page.heading }}</h1>
-		<h4 id="subheading">{{ page.subheading }}</h4>
-		<a href="/contact" id="scroll-down-button">
-			<h4 class="link">{{ page.hero_cta_text }}</h4>
-			<div class="circle"></div>
-		</a>
+		{% if page.subheading and page.subheading != "" and page.subheading != nil %}
+			<h4 id="subheading">{{ page.subheading }}</h4>
+		{% endif %}
+		{% if page.hero_cta_text and page.hero_cta_text != "" and page.hero_cta_text != nil %}
+			<a href="/contact" id="scroll-down-button">
+				<h4 class="link">{{ page.hero_cta_text }}</h4>
+				<div class="circle"></div>
+			</a>
+		{% endif %}
 	</div>
 </section>
 
@@ -22,9 +26,13 @@ layout: default
 		<h4 class="section-side-title">{{ page.about_side_title }}</h4>
 	</div>
 	<div class="section-flex-container">
-		<div class="section-container section-container-about">
-			<h1>{{page.about_title}}</h1>
-			{{ content }}
+		<div class="section-container">
+			<div class="section-container-about">
+				<div class="container">
+					<h1>{{page.about_title}}</h1>
+					{{ content }}
+				</div>
+			</div>
 		</div>
 	</div>
 </section>

@@ -9,28 +9,25 @@
 	min-height: 100vh;
 }
 
-$side-padding: 50px;
 /* adjust top/bottom padding but keep side padding same*/
 .section-page {
 	padding: 100px 0;
 	@media (min-width: $sm) {
-		padding: 150px $side-padding;
+		padding: 150px 0;
 	}
 	@media (min-width: $md) {
-		padding: 200px $side-padding;
+		padding: 200px 0;
 	}
 }
 
 .section-container {
 	margin: 0 auto;
+	width: 80%;
 	@media (min-width: $md) {
-		width: 80%;
+		width: 70%;
 	}
 	@media (min-width: $lg) {
 		width: 65%;
-	}
-	@media (min-width: $xlg) {
-		width: 50%;
 	}
 }
 
@@ -63,7 +60,10 @@ $side-padding: 50px;
 
 .section-title {
 	font-size: 50px;
-	margin-bottom: 50px;
+	margin: 50px 0 30px;
+	@media (min-width: $md) {
+		margin: 0 0 50px;	
+	}
 }
 
 .section-articles-title {

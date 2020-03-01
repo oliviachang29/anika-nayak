@@ -49,3 +49,15 @@ footer {
 	text-transform: uppercase;
 	text-align: center;
 }
+
+.hide-desktop {
+	@media (min-width: $md) {
+		display: none;
+	}
+}
+
+.hide-mobile {
+	@media (max-width: $md) {
+		display: none;
+	}
+}

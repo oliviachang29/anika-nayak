@@ -26,6 +26,10 @@
 	align-items: center;
 	justify-content: space-between;
 	position: fixed;
+	z-index: 0;
+	@media (max-width: $md) {
+		display: none;
+	}
 }
 
 .line {
@@ -33,11 +37,6 @@
 	opacity: 0.8;
 	width: 15%;
 	background-color: $text-color;
-	display: none;
-	z-index: 0;
-	@media (min-width: $sm) {
-		display: block;
-	}
 }
 
 .line-left {
@@ -53,7 +52,7 @@
 	font-size: 15vw;
 	color: $text-color;
 	letter-spacing: 0;
-	@media (min-width: $sm) {
+	@media (min-width: $md) {
 		font-size: 9vw;
 	}
 	@media (min-width: $xlg) {
@@ -67,12 +66,11 @@ https://stackoverflow.com/questions/40528290/how-to-implement-max-font-size
 */
 #subheading {
 	margin-top: 3%;
-	font-size: 12px;
+	font-size: 4vw;
 	@media (min-width: $sm) {
 		margin-top: 0px;
-		/*margin-top: 20px;*/
 	}
-	@media (min-width: $lg) {
+	@media (min-width: $xs) {
 		font-size: inherit;
 	}
 }
@@ -123,10 +121,12 @@ $original-opacity: 0.2;
 	}
 }
 
-#about {
-	/*margin-top: 200px;
-	padding-bottom: 100px;*/
 
+.section-container-about {
+	@media (min-width: $lg) {
+		width: 80%;
+		margin: 0 auto;
+	}
 	h1 {
 		font-size: 50px;
 		margin-bottom: 30px
