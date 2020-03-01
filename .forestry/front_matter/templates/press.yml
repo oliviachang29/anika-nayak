@@ -18,8 +18,29 @@ fields:
   name: date
   label: Date
   description: Date article was published (used to sort the articles by date)
+  config:
+    required: false
 - type: textarea
   name: link
   label: Link
   description: URL format, in https://www.mysite.com. Copy and paste the URL from
     the search box.
+- name: is_video
+  type: boolean
+  label: This is a video
+  description: Toggle true if the article is a video
+  default: false
+- name: video_embed_content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Video embed content
+  description: On Youtube, click "Share" then "Embed" and copy and paste the code
+    given.
+  showOnly:
+    field: is_video
+    value: true
