@@ -20,10 +20,28 @@ fields:
   name: contact
   label: Contact Links
   fields:
-  - type: text
-    name: type
+  - name: type
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - Twitter
+      - Facebook
+      - Email
+      - Instagram
+      - Linkedin
+      - Github
+      - Youtube
+      - Snapchat
+      - Discord
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
     label: Type
-    description: 'Link type, ex: Email, Linkedin, Facebook, Twitter, etc.'
+    description: Social media link type
   - type: text
     name: url
     label: URL
