@@ -34,7 +34,6 @@ sections:
 - type: document
   path: _data/colors.yml
   label: Colors
-  match: "**/*"
 - type: document
   path: _data/links.yml
   label: Social Media Links

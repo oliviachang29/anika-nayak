@@ -1,0 +1,37 @@
+---
+label: Colors
+hide_body: true
+fields:
+- type: text
+  name: background
+  label: background
+- type: text
+  name: default_text_color
+  label: default_text_color
+- type: text
+  name: heading
+  label: heading
+- type: text
+  name: subheading
+  label: subheading
+- type: text
+  name: hero_cta_text
+  label: hero_cta_text
+- type: text
+  name: nav_link
+  label: nav_link
+- type: text
+  name: h1
+  label: h1
+- type: text
+  name: h2
+  label: h2
+- type: text
+  name: h4
+  label: h4
+- type: text
+  name: p
+  label: p
+- type: text
+  name: a
+  label: a
