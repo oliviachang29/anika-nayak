@@ -2,18 +2,29 @@
 label: Press
 hide_body: true
 fields:
+- name: is_video
+  type: boolean
+  label: This is a video
+  description: Toggle true if the article is a video
+  default: false
 - type: text
   name: publication
   label: Publication
+  showOnly:
+    field: is_video
 - type: text
   name: title
   label: Title
   description: Article title
   config:
     required: true
+  showOnly:
+    field: is_video
 - type: textarea
   name: description
   label: Description
+  showOnly:
+    field: is_video
 - type: text
   name: date
   label: Date
@@ -25,11 +36,8 @@ fields:
   label: Link
   description: URL format, in https://www.mysite.com. Copy and paste the URL from
     the search box.
-- name: is_video
-  type: boolean
-  label: This is a video
-  description: Toggle true if the article is a video
-  default: false
+  showOnly:
+    field: is_video
 - name: video_embed_content
   type: textarea
   default: ''
