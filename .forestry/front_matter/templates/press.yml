@@ -39,7 +39,7 @@ fields:
     the search box.
   showOnly:
     field: is_video
-- name: video_embed_content
+- name: embed_content
   type: textarea
   default: ''
   config:
