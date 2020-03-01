@@ -17,39 +17,49 @@ fields:
   name: heading
   label: Heading
   description: Color of the large cursive text on the About page.
+  default: "#000000"
 - type: text
   name: subheading
   label: Subheading
   description: Color of the text *below* the large cursive text on the About page.
+  default: "#000000"
 - type: text
   name: hero_cta_text
   label: Call to Action Text
   description: Color of the text that appears above the pulsating circle
+  default: "#000000"
 - type: text
   name: nav_link
   label: Navigation Link
   description: Color of the navigation links.
+  default: "#000000"
 - type: text
   name: h1
   label: Title
   description: 'Color of the titles that appear for each page (ex: "About", "Words",
     "Press", "Projects", "Contact").'
+  default: "#000000"
 - type: text
   name: h2
   label: Article Title
   description: Color of the article titles on the Press page.
+  default: "#000000"
 - type: text
   name: h4
   label: Mini Titles
+  default: "#000000"
 - type: text
   name: p
   label: Paragraph text
+  default: "#000000"
 - type: text
   name: a
   label: Links
+  default: "#000000"
 - name: contact_icon
   type: text
   config:
     required: false
   label: Social Media Icons
   description: Colors of social media icons in the top right
+  default: "#000000"
