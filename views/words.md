@@ -37,3 +37,5 @@ permalink: "/words"
 [Michigan Students will Get To Learn About Sikhism with the New Social Studies Standards](https://urbanasian.com/featured/2019/07/michigan-students-will-get-to-learn-about-sikhism-with-the-new-social-studies-standards/)
 
 [We Asked Bollywood about their Self-Care Practices](https://urbanasian.com/news/2019/07/we-asked-bollywood-about-their-self-care-practices/)
+
+![](/uploads/Screen Shot 2020-02-17 at 12.38.45 AM.png)
