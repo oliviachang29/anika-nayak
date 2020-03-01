@@ -15,11 +15,15 @@ sections:
   label: Projects
   create: all
   match: "**/*"
+  templates:
+  - project
 - type: directory
   path: _press
   label: Press
   create: all
   match: "**/*"
+  templates:
+  - press
 - type: document
   path: views/contact.md
   label: Contact
