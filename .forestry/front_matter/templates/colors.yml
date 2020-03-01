@@ -47,3 +47,9 @@ fields:
 - type: text
   name: a
   label: Links
+- name: contact_icon
+  type: text
+  config:
+    required: false
+  label: Social Media Icons
+  description: Colors of social media icons in the top right
