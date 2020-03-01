@@ -30,6 +30,6 @@ fields:
     description: URL format, in https://www.mysite.com. Copy and paste the URL from
       the search box.
   description: 'Social media links in the top right. Supported links: Twitter, Facebook,
-    Email, Instagram, LinkedIn.'
+    Email, Instagram, LinkedIn, Github, Youtube, Snapchat, Discord.'
 pages:
 - _data/links.yml
