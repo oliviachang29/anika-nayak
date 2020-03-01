@@ -1,5 +1,5 @@
 ---
-label: Data - Links
+label: Social Media Links
 hide_body: true
 fields:
 - type: field_group_list
@@ -29,6 +29,7 @@ fields:
     label: URL
     description: URL format, in https://www.mysite.com. Copy and paste the URL from
       the search box.
-  description: Social media links in the top right
+  description: 'Social media links in the top right. Supported links: Twitter, Facebook,
+    Email, Instagram, LinkedIn.'
 pages:
 - _data/links.yml
