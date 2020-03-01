@@ -24,7 +24,7 @@ fields:
     type: select
     default: []
     config:
-      required: false
+      required: true
       options:
       - Twitter
       - Facebook
@@ -47,6 +47,8 @@ fields:
     label: URL
     description: URL format, in https://www.mysite.com. Copy and paste the URL from
       the search box.
+    config:
+      required: true
   description: 'Social media links in the top right. Supported links: Twitter, Facebook,
     Email, Instagram, LinkedIn, Github, Youtube, Snapchat, Discord.'
   config:
