@@ -37,6 +37,16 @@ sections:
 - type: document
   path: _data/links.yml
   label: Social Media Links
+- type: heading
+  label: Code
+- type: document
+  path: _includes/custom_head.html
+  label: Head
+  match: "**/*"
+- type: document
+  path: _includes/custom_footer.html
+  label: Footer
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
