@@ -10,6 +10,10 @@ permalink: "/words"
 
 [These 5 Gen Z Activists Are The Next Wave Of Black History](https://www.elitedaily.com/p/these-5-gen-z-activists-are-the-next-wave-of-black-history-21793860)
 
+#### Greatist
+
+[5 Things to Consider Before Trying Your Friend's Skin Care](https://greatist.com/health/sharing-skin-care "5 Things to Consider Before Trying Your Friend's Skin Care")
+
 #### i-D
 
 [5 teens tell us what they think about mental health days in school](https://i-d.vice.com/en_us/article/evjqd4/5-teens-tell-us-what-they-think-about-mental-health-days-in-school)
