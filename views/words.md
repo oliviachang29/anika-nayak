@@ -10,7 +10,7 @@ permalink: "/words"
 
 [These 5 Gen Z Activists Are The Next Wave Of Black History](https://www.elitedaily.com/p/these-5-gen-z-activists-are-the-next-wave-of-black-history-21793860)
 
-###### [Meet The Gen Z "STEMinists" Working To End The Gender Gap In STEM Fields](https://www.elitedaily.com/p/meet-the-gen-z-steminists-working-to-end-the-gender-gap-in-stem-fields-22638435 'Meet The Gen Z "STEMinists" Working To End The Gender Gap In STEM Fields')
+###### [These 5 Gen Z Activists Are The Next Wave Of Black History](https://www.elitedaily.com/p/meet-the-gen-z-steminists-working-to-end-the-gender-gap-in-stem-fields-22638435 'Meet The Gen Z "STEMinists" Working To End The Gender Gap In STEM Fields')
 
 #### Greatist
 
