@@ -32,7 +32,7 @@ permalink: "/words"
 
 #### Washington Post’s The Lily
 
-[5 mother-daughter pairs share how they practice self-care together](https://urbanasian.com/featured/2018/07/interview-themxxnlight-duo-akash-and-krish-chandani/)
+[5 mother-daughter pairs share how they practice self-care together](https://www.thelily.com/5-mother-daughter-pairs-share-how-they-practice-self-care-together/ "5 mother-daughter pairs share how they practice self-care together")
 
 #### Urban Asian
 
