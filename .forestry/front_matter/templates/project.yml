@@ -12,10 +12,10 @@ fields:
 - type: text
   name: institution
   label: institution
-- type: date
+- type: text
   name: start_date
   label: start_date
-- type: date
+- type: text
   name: end_date
   label: end_date
 - type: textarea
