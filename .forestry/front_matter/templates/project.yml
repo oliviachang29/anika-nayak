@@ -14,13 +14,15 @@ fields:
   label: institution
 - type: text
   name: start_date
-  label: start_date
+  label: Start Date
+  description: 'ex: April 2019'
 - type: text
   name: end_date
-  label: end_date
+  label: End Date
+  description: 'ex: April 2019'
 - type: textarea
   name: description
   label: description
 - type: file
   name: image_url
-  label: image_url
+  label: Image URL
