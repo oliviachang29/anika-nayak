@@ -12,9 +12,12 @@ fields:
 - type: text
   name: institution
   label: institution
-- type: text
-  name: time_frame
-  label: time_frame
+- type: date
+  name: start_date
+  label: start_date
+- type: date
+  name: end_date
+  label: end_date
 - type: textarea
   name: description
   label: description

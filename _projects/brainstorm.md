@@ -2,7 +2,8 @@
 type: Research
 role: Research Intern
 institution: 'Brainstorm: The Stanford Lab for Mental Health Innovation'
-time_frame: May 2019 - Present
+start_date: May 2019
+end_date: "Present"
 description: As an intern, I conduct market and industry research, publish blog articles
   and social media posts, and work on various projects related to growing the academic
   lab.
