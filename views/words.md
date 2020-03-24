@@ -6,11 +6,15 @@ title: Words
 permalink: "/words"
 
 ---
+#### Architectural Digest
+
+[5 Easy Steps You Can Take at Home to Reduce Anxiety](https://www.architecturaldigest.com/story/how-to-manage-anxiety-at-home "5 Easy Steps You Can Take at Home to Reduce Anxiety")
+
 #### Elite Daily
 
 [These 5 Gen Z Activists Are The Next Wave Of Black History](https://www.elitedaily.com/p/these-5-gen-z-activists-are-the-next-wave-of-black-history-21793860)
 
-###### [Meet The Gen Z "STEMinists" Working To End The Gender Gap In STEM Fields](https://www.elitedaily.com/p/meet-the-gen-z-steminists-working-to-end-the-gender-gap-in-stem-fields-22638435 'Meet The Gen Z "STEMinists" Working To End The Gender Gap In STEM Fields')
+[Meet The Gen Z "STEMinists" Working To End The Gender Gap In STEM Fields](https://www.elitedaily.com/p/meet-the-gen-z-steminists-working-to-end-the-gender-gap-in-stem-fields-22638435 'Meet The Gen Z "STEMinists" Working To End The Gender Gap In STEM Fields')
 
 #### Greatist
 
