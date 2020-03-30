@@ -20,6 +20,10 @@ permalink: "/words"
 
 [5 Things to Consider Before Trying Your Friend's Skin Care](https://greatist.com/health/sharing-skin-care "5 Things to Consider Before Trying Your Friend's Skin Care")
 
+#### Harvard Technology Review
+
+[Stanford Brainstorm Presents America’s First Mental Health Innovation Course](https://harvardtechnologyreview.com/2020/03/30/stanford-brainstorm-presents-americas-first-mental-health-innovation-course/ "Stanford Brainstorm Presents America’s First Mental Health Innovation Course")
+
 #### i-D
 
 [5 teens tell us what they think about mental health days in school](https://i-d.vice.com/en_us/article/evjqd4/5-teens-tell-us-what-they-think-about-mental-health-days-in-school)
@@ -40,10 +44,6 @@ permalink: "/words"
 
 #### Urban Asian
 
-[#Interview: THEMXXNLIGHT R&B Duo talk about their recent release!](https://urbanasian.com/featured/2018/07/interview-themxxnlight-duo-akash-and-krish-chandani/)
-
 [#MeToo: How This Movement is Finally Rising in India](https://urbanasian.com/featured/2018/11/metoo-how-this-movement-is-finally-rising-in-india/)
-
-[Michigan Students will Get To Learn About Sikhism with the New Social Studies Standards](https://urbanasian.com/featured/2019/07/michigan-students-will-get-to-learn-about-sikhism-with-the-new-social-studies-standards/)
 
 [We Asked Bollywood about their Self-Care Practices](https://urbanasian.com/news/2019/07/we-asked-bollywood-about-their-self-care-practices/)
