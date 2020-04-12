@@ -1,0 +1,10 @@
+---
+label: Custom Code
+hide_body: true
+fields:
+- type: text
+  name: header
+  label: header
+- type: text
+  name: footer
+  label: footer
