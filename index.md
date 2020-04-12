@@ -8,8 +8,8 @@ about_side_title: About Me
 id: ''
 side_title: ''
 title: ''
-
 ---
+
 Hi there! My name is Anika Nayak, a Gen Z, Florida-based freelance journalist and strategist. My interests lie in writing about Gen Z culture and health. Currently, I am focusing on promoting mental wellness among the public during this coronavirus pandemic. 
 
 I am also offering consulting services from April 2020 to July 2020 in a variety of ways: 
