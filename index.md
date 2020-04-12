@@ -10,8 +10,14 @@ side_title: ''
 title: ''
 
 ---
-![](/uploads/IMG_4877.jpg)
+Hi there! My name is Anika Nayak, a Gen Z, Florida-based freelance journalist and strategist. My interests lie in writing about Gen Z culture and health. Currently, I am focusing on promoting mental wellness among the public during this coronavirus pandemic. 
 
-Hi there! My name is Anika Nayak, a Gen Z,Florida-based freelance journalist. My interests lie in writing about Gen Z culture and health. When I am not busy interviewing Gen Z-ers, you can find me exploring new cafes, traveling, and watching comedies with friends.
+I am also offering consulting services from April 2020 to July 2020 in a variety of ways: 
 
-In addition to journalism, I am a social media strategist and consultant. Currently, I am working on initiatives related to mental health innovation and consulting for a startup. For all consulting and journalism inquiries, please email me.
+**Online Teen Journalism Workshops** - Are you a teen interested in writing for some big publications such as [Teen Vogue](https://www.teenvogue.com/ "Teen Vogue"), [Elite Daily](https://www.elitedaily.com/ "Elite Daily"), & more? I am offering one-on-one writing sessions for a small fee. For every person that purchases a workshop, I will donate one session to someone who is unable to afford one free of charge. For more details on how to purchase sessions, please [email me](malito:anikasnayak@gmail.com "email me")!
+
+**Social Media Strategy** - Are you a brand or startup interested in growing your social media audience? I can help! Currently, I am assisting brands and newsletters with their social media channels, specifically Instagram and Twitter. If your brand is catered to Gen Z-ers, I can especially help you reach young people with special insights and tools. To learn more about my previous work and my rates to help with social media engagement, please email me!
+
+**Mental Health/Wellness Product Consulting** - Are you a mental health/wellness brand with a product or service catered to Gen Z-ers? Are you looking for Gen Z insights for product and marketing growth? I can help! As a student researcher and consultant for mental health startups, I have experience connecting products with Gen Z-ers and gaining data through surveys and questionnaires. For details on my previous work and my rates to help with product growth and development, please email me!
+
+For all other inquiries or just to say hello, please email me at anika s nayak @ gmail \[dot\] com. 
