@@ -3,4 +3,5 @@ label: Code
 hide_body: false
 fields: []
 pages:
+- _includes/custom_footer.html
 - _includes/custom_head.html
