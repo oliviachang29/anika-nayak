@@ -39,12 +39,6 @@ sections:
   label: Social Media Links
 - type: heading
   label: Code
-- type: document
-  path: _includes/custom_head.html
-  label: Head
-- type: document
-  path: _includes/custom_footer.html
-  label: Footer
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
