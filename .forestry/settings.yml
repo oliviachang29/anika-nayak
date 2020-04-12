@@ -29,6 +29,13 @@ sections:
 - type: document
   path: views/contact.md
   label: Contact
+- type: jekyll-pages
+  label: Pages
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - words
 - type: heading
   label: Settings
 - type: document
@@ -37,13 +44,6 @@ sections:
 - type: document
   path: _data/links.yml
   label: Social Media Links
-- type: jekyll-pages
-  label: Pages
-  create: all
-  match: "**/*"
-  new_doc_ext: ".md"
-  templates:
-  - words
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
