@@ -13,4 +13,5 @@ end
 
 group :jekyll_plugins do
    gem "hawkins"
+   gem "jekyll-menus"
 end

@@ -1,0 +1,16 @@
+header:
+  - url: /
+    title: About
+    identifier: about
+  - url: /words
+    title: Words
+    identifier: words
+  - url: /projects
+    title: Projects
+    identifier: projects
+  - url: /press
+    title: Press
+    identifier: press
+  - url: /contact
+    title: Contact
+    identifier: contact

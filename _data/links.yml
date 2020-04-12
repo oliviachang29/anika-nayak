@@ -1,15 +1,4 @@
 ---
-navigation:
-- name: About
-  section: ''
-- name: Words
-  section: words
-- name: Projects
-  section: projects
-- name: Press
-  section: press
-- name: Contact
-  section: contact
 contact:
 - type: Linkedin
   url: https://www.linkedin.com/in/anika-nayak

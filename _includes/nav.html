@@ -1,8 +1,8 @@
 <nav id="nav-desktop">
 	{% include logo.html type="desktop" %}
 	<div id="nav-links" class="links-container">
-		{% for link in site.data.links.navigation %}
-			<a href="/{{link.section}}" class="nav-link link"><h4>{{link.name}}</h4></a>
+		{% for item in site.menus.header %}
+    		<a href="{{item.url}}" class="nav-link link"><h4>{{item.title}}</h4></a>
 		{% endfor %}
 	</div>
 	{% include contact_links.html %}
@@ -15,9 +15,9 @@
   </button>
   <div class="collapse navbar-collapse justify-content-between" id="navbarSupportedContent">
     <ul class="navbar-nav">
-    	{% for link in site.data.links.navigation %}
+    	{% for item in site.menus.header %}
 	    	<li class="nav-item">
-	    		<a href="/{{link.section}}" class="nav-link link"><h4>{{link.name}}</h4></a>
+	    		<a href="{{item.url}}" class="nav-link link"><h4>{{item.title}}</h4></a>
 	      </li>
 			{% endfor %}
     </ul>
