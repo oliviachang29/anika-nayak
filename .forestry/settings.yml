@@ -37,8 +37,6 @@ sections:
 - type: document
   path: _data/links.yml
   label: Social Media Links
-- type: heading
-  label: Code
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
