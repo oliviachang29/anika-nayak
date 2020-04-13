@@ -1,22 +1,22 @@
 ---
 header:
-- url: "/contact"
-  title: Contact
-  identifier: contact
-  weight: 5
-- url: "/press"
-  title: Press
-  identifier: press
-  weight: 4
-- url: "/projects"
-  title: Projects
-  identifier: projects
-  weight: 3
-- url: "/words"
-  title: Words
-  identifier: words
-  weight: 2
 - url: "/"
   title: About
   identifier: about
   weight: 1
+- url: "/words"
+  title: Words
+  identifier: words
+  weight: 2
+- url: "/projects"
+  title: Projects
+  identifier: projects
+  weight: 3
+- url: "/press"
+  title: Press
+  identifier: press
+  weight: 4
+- url: "/contact"
+  title: Contact
+  identifier: contact
+  weight: 6
