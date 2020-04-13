@@ -22,8 +22,3 @@ fields:
   name: permalink
   label: permalink
   hidden: true
-pages:
-- views/contact.md
-- views/contact.md
-- views/words.md
-- views/words.md

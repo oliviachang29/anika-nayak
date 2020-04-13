@@ -28,6 +28,3 @@ fields:
   label: About Side Title
   description: Text that appears on the side of the About Me section.
   hidden: true
-pages:
-- index.md
-- index.md
