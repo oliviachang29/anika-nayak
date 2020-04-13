@@ -37,12 +37,6 @@ sections:
 - type: document
   path: views/contact.md
   label: Contact
-- type: jekyll-pages
-  label: Pages
-  create: all
-  new_doc_ext: md
-  templates:
-  - words
 - type: heading
   label: Settings
 - type: document
