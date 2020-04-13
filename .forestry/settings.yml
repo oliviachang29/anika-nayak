@@ -10,6 +10,7 @@ sections:
   create: all
   match: "**/*"
   templates:
+  - about
   - words
 - type: heading
   label: Pages
