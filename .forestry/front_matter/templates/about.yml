@@ -1,7 +1,7 @@
 ---
 label: About
 hide_body: false
-display_field: heading
+display_field: about_title
 fields:
 - type: text
   name: layout
