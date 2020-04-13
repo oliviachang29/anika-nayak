@@ -2,9 +2,24 @@
 label: Custom Code
 hide_body: true
 fields:
-- type: text
-  name: header
+- name: header
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: header
-- type: text
-  name: footer
+  description: 'Copy and paste custom header code (ex: Google Adsense). Leave blank
+    otherwise.'
+- name: footer
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: footer
+  description: Copy and paste custom footer code. Leave blank otherwise.
