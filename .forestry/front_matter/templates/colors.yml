@@ -82,8 +82,6 @@ fields:
   type: color
   config:
     color_format: Hex
-  config:
-    required: false
   label: Social Media Icons
   description: Colors of social media icons in the top right
   default: "#000000"
