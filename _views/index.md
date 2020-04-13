@@ -8,9 +8,9 @@ about_side_title: About Me
 id: ''
 side_title: ''
 title: ''
-permalink: '/'
----
+permalink: "/"
 
+---
 Hi there! My name is Anika Nayak, a Gen Z, Florida-based freelance journalist and strategist. My interests lie in writing about Gen Z culture and health. Currently, I am focusing on promoting mental wellness among the public during this coronavirus pandemic. 
 
 I am also offering consulting services from April 2020 to July 2020 in a variety of ways: 
@@ -21,4 +21,4 @@ I am also offering consulting services from April 2020 to July 2020 in a variety
 
 **Mental Health/Wellness Product Consulting** - Are you a mental health/wellness brand with a product or service catered to Gen Z-ers? Are you looking for Gen Z insights for product and marketing growth? I can help! As a student researcher and consultant for mental health startups, I have experience connecting products with Gen Z-ers and gaining data through surveys and questionnaires. For details on my previous work and my rates to help with product growth and development, please contact me via email. 
 
-For all other inquiries or just to say hello, please email me at anika s nayak @ gmail \[dot\] com. 
+For all other inquiries or just to say hello, please email me at anika s nayak @ gmail \[dot\] com.
