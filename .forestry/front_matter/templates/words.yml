@@ -22,6 +22,6 @@ fields:
 - type: text
   name: permalink
   label: Permalink
-  hidden: true
+  hidden: false
   description: 'Determines link to the page. Should be "/page_name". Ex: "/about"
     or "/contact"'
