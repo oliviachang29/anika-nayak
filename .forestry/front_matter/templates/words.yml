@@ -25,5 +25,3 @@ fields:
   hidden: false
   description: 'Determines link to the page. Should be "/page_name". Ex: "/about"
     or "/contact"'
-pages:
-- _static/services.md
