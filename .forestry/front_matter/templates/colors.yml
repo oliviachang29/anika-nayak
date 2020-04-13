@@ -2,96 +2,88 @@
 label: Colors
 hide_body: true
 fields:
-    -
-        type: color
-        config:
-            color_format: Hex
-        name: background
-        label: background
-        description: 'Site background color'
-        default: '#F7F7F7'
-    -
-        type: color
-        config:
-            color_format: Hex
-        name: default_text
-        label: default_text
-        default: '#000000'
-        description: "Color of all titles and paragraphs. Can be overwritten by changing\nthe colors of specific text types below."
-    -
-        type: color
-        config:
-            color_format: Hex
-        name: heading
-        label: Heading
-        description: 'Color of the large cursive text on the About page.'
-        default: '#000000'
-    -
-        type: color
-        config:
-            color_format: Hex
-        name: subheading
-        label: Subheading
-        description: 'Color of the text *below* the large cursive text on the About page.'
-        default: '#000000'
-    -
-        type: color
-        config:
-            color_format: Hex
-        name: hero_cta_text
-        label: 'Call to Action Text'
-        description: 'Color of the text that appears above the pulsating circle'
-        default: '#000000'
-    -
-        type: color
-        config:
-            color_format: Hex
-        name: nav_link
-        label: 'Navigation Link'
-        description: 'Color of the navigation links.'
-        default: '#000000'
-    -
-        type: color
-        config:
-            color_format: Hex
-        name: h1
-        label: Title
-        description: "Color of the titles that appear for each page (ex: \"About\", \"Words\",\n\"Press\", \"Projects\", \"Contact\")."
-        default: '#000000'
-    -
-        type: color
-        config:
-            color_format: Hex
-        name: h2
-        label: 'Article Title'
-        description: 'Color of the article titles on the Press page.'
-        default: '#000000'
-    -
-        type: color
-        config:
-            color_format: Hex
-        name: h4
-        label: 'Mini Titles'
-        default: '#000000'
-    -
-        type: color
-        config:
-            color_format: Hex
-        name: p
-        label: 'Paragraph text'
-        default: '#000000'
-    -
-        type: color
-        config:
-            color_format: Hex
-        name: a
-        label: Links
-        default: '#000000'
-    -
-        name: contact_icon
-        type: "color\nconfig:\ncolor_format: Hex"
-        config:
-            required: false
-        label: 'Social Media Icons'
-        description: 'Colors of social media icons in the top right'
-        default: '#000000'
+- type: color
+  config:
+    color_format: Hex
+  name: background
+  label: background
+  description: Site background color
+  default: "#F7F7F7"
+- type: color
+  config:
+    color_format: Hex
+  name: default_text
+  label: default_text
+  default: "#000000"
+  description: Color of all titles and paragraphs. Can be overwritten by changing
+    the colors of specific text types below.
+- type: color
+  config:
+    color_format: Hex
+  name: heading
+  label: Heading
+  description: Color of the large cursive text on the About page.
+  default: "#000000"
+- type: color
+  config:
+    color_format: Hex
+  name: subheading
+  label: Subheading
+  description: Color of the text *below* the large cursive text on the About page.
+  default: "#000000"
+- type: color
+  config:
+    color_format: Hex
+  name: hero_cta_text
+  label: Call to Action Text
+  description: Color of the text that appears above the pulsating circle
+  default: "#000000"
+- type: color
+  config:
+    color_format: Hex
+  name: nav_link
+  label: Navigation Link
+  description: Color of the navigation links.
+  default: "#000000"
+- type: color
+  config:
+    color_format: Hex
+  name: h1
+  label: Title
+  description: 'Color of the titles that appear for each page (ex: "About", "Words",
+    "Press", "Projects", "Contact").'
+  default: "#000000"
+- type: color
+  config:
+    color_format: Hex
+  name: h2
+  label: Article Title
+  description: Color of the article titles on the Press page.
+  default: "#000000"
+- type: color
+  config:
+    color_format: Hex
+  name: h4
+  label: Mini Titles
+  default: "#000000"
+- type: color
+  config:
+    color_format: Hex
+  name: p
+  label: Paragraph text
+  default: "#000000"
+- type: color
+  config:
+    color_format: Hex
+  name: a
+  label: Links
+  default: "#000000"
+- name: contact_icon
+  type: color
+  config:
+    color_format: Hex
+  config:
+    required: false
+  label: Social Media Icons
+  description: Colors of social media icons in the top right
+  default: "#000000"
