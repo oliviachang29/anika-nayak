@@ -85,3 +85,5 @@ fields:
   label: Social Media Icons
   description: Colors of social media icons in the top right
   default: "#000000"
+pages:
+- _data/colors.yml
