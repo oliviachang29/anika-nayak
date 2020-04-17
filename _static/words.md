@@ -32,6 +32,10 @@ permalink: "/words"
 
 [meet 4 young activists revolutionizing mental health services](https://i-d.vice.com/en_us/article/d3ae3y/meet-4-young-activists-revolutionizing-mental-health-services)
 
+#### SELF
+
+[10 Ways to Resist the Urge to Self-Harm](https://www.self.com/story/self-harm-alternatives "10 Ways to Resist the Urge to Self-Harm")
+
 #### Teen Vogue
 
 [6 Best Sustainable Gift Ideas for Your Environmentally-Conscious Friends](https://www.teenvogue.com/story/sustainable-gift-ideas-2019)
