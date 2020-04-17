@@ -10,6 +10,8 @@ permalink: "/words"
 
 [5 Easy Steps You Can Take at Home to Reduce Anxiety](https://www.architecturaldigest.com/story/how-to-manage-anxiety-at-home "5 Easy Steps You Can Take at Home to Reduce Anxiety")
 
+[6 Strategies to Reduce Your Screen Time During Social Distancing](https://www.architecturaldigest.com/story/reducing-screen-time "6 Strategies to Reduce Your Screen Time During Social Distancing")
+
 #### Elite Daily
 
 [These 5 Gen Z Activists Are The Next Wave Of Black History](https://www.elitedaily.com/p/these-5-gen-z-activists-are-the-next-wave-of-black-history-21793860)
