@@ -7,9 +7,9 @@ fields:
   default: ''
   config:
     required: false
-    wysiwyg: false
+    wysiwyg: true
     schema:
-      format: markdown
+      format: html-blocks
   label: header
   description: 'Copy and paste custom header code (ex: Google Adsense). Leave blank
     otherwise.'
@@ -18,8 +18,8 @@ fields:
   default: ''
   config:
     required: false
-    wysiwyg: false
+    wysiwyg: true
     schema:
-      format: markdown
+      format: html-blocks
   label: footer
   description: Copy and paste custom footer code. Leave blank otherwise.
