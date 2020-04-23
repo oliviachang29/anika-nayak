@@ -23,3 +23,5 @@ fields:
       format: html-blocks
   label: footer
   description: Copy and paste custom footer code. Leave blank otherwise.
+pages:
+- _data/custom_code.yml
