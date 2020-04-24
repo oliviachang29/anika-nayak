@@ -8,5 +8,7 @@ date: Nov 10, 2019
 link: https://medium.com/meet-the-activist/anika-nayak-gun-violence-prevention-and-mental-health-advocate-e1851bfc56e5
 is_video: false
 video_embed_content: ''
+embed_content: ''
+published: false
 
 ---
