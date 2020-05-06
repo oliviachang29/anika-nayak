@@ -12,6 +12,8 @@ permalink: "/words"
 
 [6 Strategies to Reduce Your Screen Time During Social Distancing](https://www.architecturaldigest.com/story/reducing-screen-time "6 Strategies to Reduce Your Screen Time During Social Distancing")
 
+[How to Work From Home While Sharing Space With Others](https://www.architecturaldigest.com/story/shared-space-work-from-home "How to Work From Home While Sharing Space With Others")
+
 #### Elite Daily
 
 [These 5 Gen Z Activists Are The Next Wave Of Black History](https://www.elitedaily.com/p/these-5-gen-z-activists-are-the-next-wave-of-black-history-21793860)
