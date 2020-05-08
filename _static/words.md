@@ -38,6 +38,8 @@ permalink: "/words"
 
 [10 Ways to Resist the Urge to Self-Harm](https://www.self.com/story/self-harm-alternatives "10 Ways to Resist the Urge to Self-Harm")
 
+[It’s Okay to Grieve What You Thought Pregnancy and New Parenthood Would Look Like]()
+
 #### Teen Vogue
 
 [6 Best Sustainable Gift Ideas for Your Environmentally-Conscious Friends](https://www.teenvogue.com/story/sustainable-gift-ideas-2019)
