@@ -14,6 +14,8 @@ permalink: "/words"
 
 [How to Work From Home While Sharing Space With Others](https://www.architecturaldigest.com/story/shared-space-work-from-home "How to Work From Home While Sharing Space With Others")
 
+[5 Ways to Deal With Grief at Home](https://www.architecturaldigest.com/story/grief-and-mental-health-at-home "5 Ways to Deal With Grief at Home")
+
 #### Elite Daily
 
 [These 5 Gen Z Activists Are The Next Wave Of Black History](https://www.elitedaily.com/p/these-5-gen-z-activists-are-the-next-wave-of-black-history-21793860)
