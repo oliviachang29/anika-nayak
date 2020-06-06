@@ -16,6 +16,8 @@ permalink: "/words"
 
 [5 Ways to Deal With Grief at Home](https://www.architecturaldigest.com/story/grief-and-mental-health-at-home "5 Ways to Deal With Grief at Home")
 
+[How to Actively Support Protesters From Home](https://www.architecturaldigest.com/story/how-to-participate-black-lives-matter-protest-from-home "How to Actively Support Protesters From Home")
+
 #### Elite Daily
 
 [These 5 Gen Z Activists Are The Next Wave Of Black History](https://www.elitedaily.com/p/these-5-gen-z-activists-are-the-next-wave-of-black-history-21793860)
