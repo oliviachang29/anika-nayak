@@ -18,6 +18,10 @@ permalink: "/words"
 
 [How to Actively Support Protesters From Home](https://www.architecturaldigest.com/story/how-to-participate-black-lives-matter-protest-from-home "How to Actively Support Protesters From Home")
 
+#### Business Insider
+
+[We finally opened our restaurant after the COVID-19 shutdown — a day later, it was damaged during the protests. Here's why we still stand in solidarity with protesters.](https://www.businessinsider.com/florida-restaurant-was-looted-but-owner-still-support-protesters-2020-6 "We finally opened our restaurant after the COVID-19 shutdown — a day later, it was damaged during the protests. Here's why we still stand in solidarity with protesters.")
+
 #### Elite Daily
 
 [These 5 Gen Z Activists Are The Next Wave Of Black History](https://www.elitedaily.com/p/these-5-gen-z-activists-are-the-next-wave-of-black-history-21793860)
@@ -42,15 +46,15 @@ permalink: "/words"
 
 [10 Ways to Resist the Urge to Self-Harm](https://www.self.com/story/self-harm-alternatives "10 Ways to Resist the Urge to Self-Harm")
 
-[It’s Okay to Grieve What You Thought Pregnancy and New Parenthood Would Look Like]()
+[It’s Okay to Grieve What You Thought Pregnancy and New Parenthood Would Look Like](https://www.self.com/story/perinatal-mental-health-pooja-lakshmin "It’s Okay to Grieve What You Thought Pregnancy and New Parenthood Would Look Like")
 
 #### Teen Vogue
 
-[6 Best Sustainable Gift Ideas for Your Environmentally-Conscious Friends](https://www.teenvogue.com/story/sustainable-gift-ideas-2019)
+[6 Best Sustainable Gift Ideas for Your Environmentally-Conscious Friends](https://www.teenvogue.com/story/sustainable-gift-ideas-2019 "6 Best Sustainable Gift Ideas for Your Environmentally-Conscious Friends")
 
 #### Thrive Global
 
-[What You Can Do to Unlock Better Mental Health, According to Stanford Research](https://thriveglobal.com/stories/how-to-unlock-better-mental-health-stanford-research/)
+[What You Can Do to Unlock Better Mental Health, According to Stanford Research](https://thriveglobal.com/stories/how-to-unlock-better-mental-health-stanford-research/ "What You Can Do to Unlock Better Mental Health, According to Stanford Research")
 
 #### Washington Post’s The Lily
 
