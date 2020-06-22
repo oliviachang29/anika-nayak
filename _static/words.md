@@ -22,6 +22,8 @@ permalink: "/words"
 
 [We finally opened our restaurant after the COVID-19 shutdown — a day later, it was damaged during the protests. Here's why we still stand in solidarity with protesters.](https://www.businessinsider.com/florida-restaurant-was-looted-but-owner-still-support-protesters-2020-6 "We finally opened our restaurant after the COVID-19 shutdown — a day later, it was damaged during the protests. Here's why we still stand in solidarity with protesters.")
 
+[An inside look at Stanford's one-of-a-kind course on mental health innovation, where students mingle with industry experts and develop business plans aimed at revolutionizing the healthcare industry](https://www.businessinsider.com/inside-look-stanford-mental-health-innovation-course-2020-6 "An inside look at Stanford's one-of-a-kind course on mental health innovation, where students mingle with industry experts and develop business plans aimed at revolutionizing the healthcare industry")
+
 #### Elite Daily
 
 [These 5 Gen Z Activists Are The Next Wave Of Black History](https://www.elitedaily.com/p/these-5-gen-z-activists-are-the-next-wave-of-black-history-21793860)
