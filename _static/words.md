@@ -24,6 +24,8 @@ permalink: "/words"
 
 [An inside look at Stanford's one-of-a-kind course on mental health innovation, where students mingle with industry experts and develop business plans aimed at revolutionizing the healthcare industry](https://www.businessinsider.com/inside-look-stanford-mental-health-innovation-course-2020-6 "An inside look at Stanford's one-of-a-kind course on mental health innovation, where students mingle with industry experts and develop business plans aimed at revolutionizing the healthcare industry")
 
+[A day in the life of a COVID-19 tester in South Carolina, where new cases surged to a record-breaking daily high this week](https://www.businessinsider.com/day-in-the-life-of-coronavirus-tester-in-south-carolina-2020-6 "A day in the life of a COVID-19 tester in South Carolina, where new cases surged to a record-breaking daily high this week")
+
 #### Elite Daily
 
 [These 5 Gen Z Activists Are The Next Wave Of Black History](https://www.elitedaily.com/p/these-5-gen-z-activists-are-the-next-wave-of-black-history-21793860)
