@@ -9,5 +9,6 @@ description: As an intern, I conduct market and industry research, publish blog 
   lab.
 image_url: "/uploads/Screen Shot 2020-02-17 at 12.08.49 AM.png"
 link: https://www.stanfordbrainstorm.com/
+published: false
 
 ---
