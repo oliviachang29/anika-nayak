@@ -26,6 +26,8 @@ permalink: "/words"
 
 [A day in the life of a COVID-19 tester in South Carolina, where new cases surged to a record-breaking daily high this week](https://www.businessinsider.com/day-in-the-life-of-coronavirus-tester-in-south-carolina-2020-6 "A day in the life of a COVID-19 tester in South Carolina, where new cases surged to a record-breaking daily high this week")
 
+[I'm a Google intern and TikTok influencer who's living with my parents in Texas for the summer — here's what my days are like](https://www.businessinsider.com/google-intern-tiktok-influencer-day-in-the-life-2020-7 "I'm a Google intern and TikTok influencer who's living with my parents in Texas for the summer — here's what my days are like")
+
 #### Elite Daily
 
 [These 5 Gen Z Activists Are The Next Wave Of Black History](https://www.elitedaily.com/p/these-5-gen-z-activists-are-the-next-wave-of-black-history-21793860)
@@ -45,6 +47,8 @@ permalink: "/words"
 [5 teens tell us what they think about mental health days in school](https://i-d.vice.com/en_us/article/evjqd4/5-teens-tell-us-what-they-think-about-mental-health-days-in-school)
 
 [meet 4 young activists revolutionizing mental health services](https://i-d.vice.com/en_us/article/d3ae3y/meet-4-young-activists-revolutionizing-mental-health-services)
+
+[6 college students share their gap year plans](https://i-d.vice.com/en_uk/article/5dzw9a/college-students-take-gap-years-because-of-covid19 "6 college students share their gap year plans")
 
 #### SELF
 
