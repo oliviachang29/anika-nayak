@@ -50,6 +50,10 @@ permalink: "/words"
 
 [6 college students share their gap year plans](https://i-d.vice.com/en_uk/article/5dzw9a/college-students-take-gap-years-because-of-covid19 "6 college students share their gap year plans")
 
+#### Plantie
+
+[Ecotherapy: A Scientifically-Proven Method To Improve Your Wellbeing](https://plantie.com/ecotherapy-a-scientifically-proven-method-to-improve-your-wellbeing/ "Ecotherapy: A Scientifically-Proven Method To Improve Your Wellbeing")
+
 #### SELF
 
 [10 Ways to Resist the Urge to Self-Harm](https://www.self.com/story/self-harm-alternatives "10 Ways to Resist the Urge to Self-Harm")
