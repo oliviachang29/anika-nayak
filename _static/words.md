@@ -18,6 +18,10 @@ permalink: "/words"
 
 [How to Actively Support Protesters From Home](https://www.architecturaldigest.com/story/how-to-participate-black-lives-matter-protest-from-home "How to Actively Support Protesters From Home")
 
+#### Bernard & Hawkes
+
+[How a Therapist Is Coping With the Pandemic](https://bernardandhawkes.com/articles/how-a-therapist-is-coping-with-the-pandemic-alyssa-mancao "How a Therapist Is Coping With the Pandemic")
+
 #### Business Insider
 
 [We finally opened our restaurant after the COVID-19 shutdown — a day later, it was damaged during the protests. Here's why we still stand in solidarity with protesters.](https://www.businessinsider.com/florida-restaurant-was-looted-but-owner-still-support-protesters-2020-6 "We finally opened our restaurant after the COVID-19 shutdown — a day later, it was damaged during the protests. Here's why we still stand in solidarity with protesters.")
