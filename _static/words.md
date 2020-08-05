@@ -54,6 +54,10 @@ permalink: "/words"
 
 [6 college students share their gap year plans](https://i-d.vice.com/en_uk/article/5dzw9a/college-students-take-gap-years-because-of-covid19 "6 college students share their gap year plans")
 
+#### Livestrong.com
+
+[5 Health Risks of Loneliness — and How to Cope When You Feel Alone](https://www.livestrong.com/article/13727485-loneliness-health-risks/ "5 Health Risks of Loneliness — and How to Cope When You Feel Alone")
+
 #### Plantie
 
 [Ecotherapy: A Scientifically-Proven Method To Improve Your Wellbeing](https://plantie.com/ecotherapy-a-scientifically-proven-method-to-improve-your-wellbeing/ "Ecotherapy: A Scientifically-Proven Method To Improve Your Wellbeing")
