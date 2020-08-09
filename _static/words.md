@@ -84,12 +84,6 @@ permalink: "/words"
 
 [5 mother-daughter pairs share how they practice self-care together](https://www.thelily.com/5-mother-daughter-pairs-share-how-they-practice-self-care-together/ "5 mother-daughter pairs share how they practice self-care together")
 
-#### Urban Asian
-
-[#MeToo: How This Movement is Finally Rising in India](https://urbanasian.com/featured/2018/11/metoo-how-this-movement-is-finally-rising-in-india/)
-
-[We Asked Bollywood about their Self-Care Practices](https://urbanasian.com/news/2019/07/we-asked-bollywood-about-their-self-care-practices/)
-
 #### YR Media
 
 [Let's Talk Mental Health: 3 Black Femmes Lead The Way](https://yr.media/health/lets-talk-mental-health-3-black-femmes-lead-the-way/ "Let's Talk Mental Health: 3 Black Femmes Lead The Way")
