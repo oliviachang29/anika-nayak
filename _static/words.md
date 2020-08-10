@@ -62,6 +62,8 @@ permalink: "/words"
 
 [Ecotherapy: A Scientifically-Proven Method To Improve Your Wellbeing](https://plantie.com/ecotherapy-a-scientifically-proven-method-to-improve-your-wellbeing/ "Ecotherapy: A Scientifically-Proven Method To Improve Your Wellbeing")
 
+[5 Expert Tips To Stop Overeating](https://plantie.com/5-expert-tips-to-stop-overeating/ "5 Expert Tips To Stop Overeating")
+
 #### Public Goods
 
 [How to Cope With Grief During the COVID-19 Pandemic](https://publicgoodsdev.wpengine.com/how-to-cope-with-grief-during-the-covid-19-pandemic/ "How to Cope With Grief During the COVID-19 Pandemic")
