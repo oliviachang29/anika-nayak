@@ -68,6 +68,10 @@ permalink: "/words"
 
 [How to Cope With Grief During the COVID-19 Pandemic](https://publicgoodsdev.wpengine.com/how-to-cope-with-grief-during-the-covid-19-pandemic/ "How to Cope With Grief During the COVID-19 Pandemic")
 
+#### Rewire
+
+[7 Students Share Their Plans for a COVID-Inspired Gap Year](https://www.rewire.org/7-students-share-their-gap-year-plans/ "7 Students Share Their Plans for a COVID-Inspired Gap Year")
+
 #### SELF
 
 [10 Ways to Resist the Urge to Self-Harm](https://www.self.com/story/self-harm-alternatives "10 Ways to Resist the Urge to Self-Harm")
