@@ -18,6 +18,8 @@ permalink: "/words"
 
 [How to Actively Support Protesters From Home](https://www.architecturaldigest.com/story/how-to-participate-black-lives-matter-protest-from-home "How to Actively Support Protesters From Home")
 
+[You Should Absolutely Take a Break Right Now—And Here’s the Best Way to Do It](https://www.architecturaldigest.com/story/take-a-break-mental-health-screen-time "You Should Absolutely Take a Break Right Now—And Here’s the Best Way to Do It")
+
 #### Bernard & Hawkes
 
 [How a Therapist Is Coping With the Pandemic](https://bernardandhawkes.com/articles/how-a-therapist-is-coping-with-the-pandemic-alyssa-mancao "How a Therapist Is Coping With the Pandemic")
