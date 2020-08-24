@@ -40,6 +40,8 @@ permalink: "/words"
 
 [Meet The Gen Z "STEMinists" Working To End The Gender Gap In STEM Fields](https://www.elitedaily.com/p/meet-the-gen-z-steminists-working-to-end-the-gender-gap-in-stem-fields-22638435 'Meet The Gen Z "STEMinists" Working To End The Gender Gap In STEM Fields')
 
+[Here's How 19 High School Students Feel About Going Back To School During Coronavirus](https://www.elitedaily.com/p/heres-how-19-high-school-students-feel-about-going-back-to-school-during-coronavirus-32116258 "Here's How 19 High School Students Feel About Going Back To School During Coronavirus")
+
 #### Greatist
 
 [5 Things to Consider Before Trying Your Friend's Skin Care](https://greatist.com/health/sharing-skin-care "5 Things to Consider Before Trying Your Friend's Skin Care")
