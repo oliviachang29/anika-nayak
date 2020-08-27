@@ -58,6 +58,8 @@ permalink: "/words"
 
 [6 college students share their gap year plans](https://i-d.vice.com/en_uk/article/5dzw9a/college-students-take-gap-years-because-of-covid19 "6 college students share their gap year plans")
 
+[7 high school students on going back to class during the pandemic](https://i-d.vice.com/en_uk/article/n7wmnw/american-high-school-students-on-virtual-learning-and-returning-to-class-during-covid-19 "7 high school students on going back to class during the pandemic")
+
 #### Livestrong.com
 
 [5 Health Risks of Loneliness — and How to Cope When You Feel Alone](https://www.livestrong.com/article/13727485-loneliness-health-risks/ "5 Health Risks of Loneliness — and How to Cope When You Feel Alone")
