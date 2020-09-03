@@ -90,6 +90,10 @@ permalink: "/words"
 
 [6 Best Sustainable Gift Ideas for Your Environmentally-Conscious Friends](https://www.teenvogue.com/story/sustainable-gift-ideas-2019 "6 Best Sustainable Gift Ideas for Your Environmentally-Conscious Friends")
 
+#### The Beet
+
+[It’s Self Care Month. To Achieve Wellness, Try a Plant-Based Diet, Says This Doctor]()
+
 #### Thrive Global
 
 [What You Can Do to Unlock Better Mental Health, According to Stanford Research](https://thriveglobal.com/stories/how-to-unlock-better-mental-health-stanford-research/ "What You Can Do to Unlock Better Mental Health, According to Stanford Research")
