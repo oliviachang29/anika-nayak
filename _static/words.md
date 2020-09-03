@@ -20,6 +20,10 @@ permalink: "/words"
 
 [You Should Absolutely Take a Break Right Now—And Here’s the Best Way to Do It](https://www.architecturaldigest.com/story/take-a-break-mental-health-screen-time "You Should Absolutely Take a Break Right Now—And Here’s the Best Way to Do It")
 
+#### Because Health
+
+[How Psychological Stress Impacts Immunity and What You Can Do to Cope with Stress](https://www.becausehealth.com/blog/how-psychological-stress-impacts-immunity-and-what-you-can-do-to-improve-immunity "How Psychological Stress Impacts Immunity and What You Can Do to Cope with Stress")
+
 #### Bernard & Hawkes
 
 [How a Therapist Is Coping With the Pandemic](https://bernardandhawkes.com/articles/how-a-therapist-is-coping-with-the-pandemic-alyssa-mancao "How a Therapist Is Coping With the Pandemic")
