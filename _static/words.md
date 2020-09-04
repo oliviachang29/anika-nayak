@@ -96,7 +96,7 @@ permalink: "/words"
 
 #### The Beet
 
-[It’s Self Care Month. To Achieve Wellness, Try a Plant-Based Diet, Says This Doctor]()
+[It’s Self Care Month. To Achieve Wellness, Try a Plant-Based Diet, Says This Doctor](https://thebeet.com/its-self-care-month-to-achieve-wellness-try-a-plant-based-diet-says-this-doctor/ "It’s Self Care Month. To Achieve Wellness, Try a Plant-Based Diet, Says This Doctor")
 
 [Eat These 5 Foods for Better Brain Health, Focus and Mood Says a Doc](https://thebeet.com/eat-these-5-foods-for-better-brain-health-focus-and-mood-says-a-doc/ "Eat These 5 Foods for Better Brain Health, Focus and Mood Says a Doc")
 
