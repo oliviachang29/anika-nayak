@@ -98,6 +98,8 @@ permalink: "/words"
 
 [It’s Self Care Month. To Achieve Wellness, Try a Plant-Based Diet, Says This Doctor]()
 
+[Eat These 5 Foods for Better Brain Health, Focus and Mood Says a Doc](https://thebeet.com/eat-these-5-foods-for-better-brain-health-focus-and-mood-says-a-doc/ "Eat These 5 Foods for Better Brain Health, Focus and Mood Says a Doc")
+
 #### Thrive Global
 
 [What You Can Do to Unlock Better Mental Health, According to Stanford Research](https://thriveglobal.com/stories/how-to-unlock-better-mental-health-stanford-research/ "What You Can Do to Unlock Better Mental Health, According to Stanford Research")
