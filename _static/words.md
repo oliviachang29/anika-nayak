@@ -24,6 +24,8 @@ permalink: "/words"
 
 [How Psychological Stress Impacts Immunity and What You Can Do to Cope with Stress](https://www.becausehealth.com/blog/how-psychological-stress-impacts-immunity-and-what-you-can-do-to-improve-immunity "How Psychological Stress Impacts Immunity and What You Can Do to Cope with Stress")
 
+[3 Simple Exercises to Boost Your Immune System During COVID-19](https://www.becausehealth.com/blog/3-simple-exercises-to-boost-your-immune-system "3 Simple Exercises to Boost Your Immune System During COVID-19")
+
 #### Bernard & Hawkes
 
 [How a Therapist Is Coping With the Pandemic](https://bernardandhawkes.com/articles/how-a-therapist-is-coping-with-the-pandemic-alyssa-mancao "How a Therapist Is Coping With the Pandemic")
