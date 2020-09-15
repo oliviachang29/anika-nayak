@@ -56,6 +56,10 @@ permalink: "/words"
 
 [Stanford Brainstorm Presents America’s First Mental Health Innovation Course](https://harvardtechnologyreview.com/2020/03/30/stanford-brainstorm-presents-americas-first-mental-health-innovation-course/ "Stanford Brainstorm Presents America’s First Mental Health Innovation Course")
 
+#### Huffington Post
+
+[There Was A College Mental Health Crisis Before COVID-19. Now It May Be Worse.](https://www.huffpost.com/entry/college-mental-health-covid-19_l_5f60bec1c5b65fd7b854f1c8 "There Was A College Mental Health Crisis Before COVID-19. Now It May Be Worse.")
+
 #### i-D
 
 [5 teens tell us what they think about mental health days in school](https://i-d.vice.com/en_us/article/evjqd4/5-teens-tell-us-what-they-think-about-mental-health-days-in-school)
