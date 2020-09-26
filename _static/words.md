@@ -114,6 +114,10 @@ permalink: "/words"
 
 [Chef Priyanka Naik on How to Cook Delicious Global Vegan Cuisine](https://thebeet.com/chef-priyanka-naik-on-how-to-cook-delicious-global-vegan-cuisine/ "Chef Priyanka Naik on How to Cook Delicious Global Vegan Cuisine")
 
+[5 Energizing Plant-Based Meals to Boost Productivity and Focus](https://thebeet.com/5-energizing-plant-based-meals-to-boost-productivity-and-focus/ "5 Energizing Plant-Based Meals to Boost Productivity and Focus")
+
+[The 6 Best Foods to Eat to Alleviate PCOS Symptoms](https://thebeet.com/the-6-best-foods-to-eat-to-alleviate-pcos-symptoms/ "The 6 Best Foods to Eat to Alleviate PCOS Symptoms")
+
 #### Thrive Global
 
 [What You Can Do to Unlock Better Mental Health, According to Stanford Research](https://thriveglobal.com/stories/how-to-unlock-better-mental-health-stanford-research/ "What You Can Do to Unlock Better Mental Health, According to Stanford Research")
