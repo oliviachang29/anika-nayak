@@ -48,6 +48,8 @@ permalink: "/words"
 
 [Here's How 19 High School Students Feel About Going Back To School During Coronavirus](https://www.elitedaily.com/p/heres-how-19-high-school-students-feel-about-going-back-to-school-during-coronavirus-32116258 "Here's How 19 High School Students Feel About Going Back To School During Coronavirus")
 
+[12 Young Women Reflect On Ruth Bader Ginsburg's Legacy & How To Keep Fighting](https://www.elitedaily.com/p/12-young-women-reflect-on-ruth-bader-ginsburgs-legacy-how-to-keep-fighting-35340553 "12 Young Women Reflect On Ruth Bader Ginsburg's Legacy & How To Keep Fighting")
+
 #### Greatist
 
 [5 Things to Consider Before Trying Your Friend's Skin Care](https://greatist.com/health/sharing-skin-care "5 Things to Consider Before Trying Your Friend's Skin Care")
