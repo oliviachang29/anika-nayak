@@ -120,6 +120,8 @@ permalink: "/words"
 
 [The 6 Best Foods to Eat to Alleviate PCOS Symptoms](https://thebeet.com/the-6-best-foods-to-eat-to-alleviate-pcos-symptoms/ "The 6 Best Foods to Eat to Alleviate PCOS Symptoms")
 
+[Is a Vegan Diet Safe For Children? A Pediatrician Weighs In](https://thebeet.com/is-a-vegan-diet-safe-for-children-a-pediatrician-weighs-in/ "Is a Vegan Diet Safe For Children? A Pediatrician Weighs In")
+
 #### Thrive Global
 
 [What You Can Do to Unlock Better Mental Health, According to Stanford Research](https://thriveglobal.com/stories/how-to-unlock-better-mental-health-stanford-research/ "What You Can Do to Unlock Better Mental Health, According to Stanford Research")
