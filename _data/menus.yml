@@ -11,7 +11,7 @@ header:
 - url: "/press"
   title: Press
   identifier: press
-  weight: 3
+  weight: 5
 - url: "/contact"
   title: Contact
   identifier: contact
