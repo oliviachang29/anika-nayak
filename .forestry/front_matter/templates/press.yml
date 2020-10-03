@@ -53,6 +53,3 @@ fields:
   showOnly:
     field: is_video
     value: true
-pages:
-- _press/aspirations.md
-- _press/meet-the-activist.md
