@@ -1,7 +1,7 @@
 ---
 layout: about
 heading: anika nayak
-subheading: Storyteller | Innovator | Trailblazer
+subheading: Freelance Journalist
 hero_cta_text: Say hello
 about_title: About Me
 about_side_title: About Me
