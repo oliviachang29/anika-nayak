@@ -2,7 +2,7 @@
 layout: static
 id: ''
 side_title: Resources
-title: Resources
+title: 'Interested in freelance writing? '
 permalink: "/resources"
 menu:
   header:
