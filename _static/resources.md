@@ -6,7 +6,7 @@ title: Resources
 permalink: "/resources"
 menu:
   header:
-    weight: 6
+    weight: 5
 
 ---
 Hi
