@@ -7,7 +7,6 @@ permalink: "/resources"
 menu:
   header:
     weight: 6
-published: false
 
 ---
 Hi
