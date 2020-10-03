@@ -122,6 +122,10 @@ permalink: "/words"
 
 [Is a Vegan Diet Safe For Children? A Pediatrician Weighs In](https://thebeet.com/is-a-vegan-diet-safe-for-children-a-pediatrician-weighs-in/ "Is a Vegan Diet Safe For Children? A Pediatrician Weighs In")
 
+#### The Well
+
+[Empathy Matters More Than Ever This Election Season](https://www.the-well.com/editorial/how-to-cultivate-empathy-this-election-season "Empathy Matters More Than Ever This Election Season")
+
 #### Thrive Global
 
 [What You Can Do to Unlock Better Mental Health, According to Stanford Research](https://thriveglobal.com/stories/how-to-unlock-better-mental-health-stanford-research/ "What You Can Do to Unlock Better Mental Health, According to Stanford Research")
