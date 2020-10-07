@@ -62,6 +62,8 @@ permalink: "/words"
 
 [There Was A College Mental Health Crisis Before COVID-19. Now It May Be Worse.](https://www.huffpost.com/entry/college-mental-health-covid-19_l_5f60bec1c5b65fd7b854f1c8 "There Was A College Mental Health Crisis Before COVID-19. Now It May Be Worse.")
 
+[15 Things Therapists Do When They're Anxious Watching The Debates](https://www.huffpost.com/entry/things-therapists-do-anxious-watching-debates_l_5f7caf45c5b61229a0584bbc "15 Things Therapists Do When They're Anxious Watching The Debates")
+
 #### i-D
 
 [5 teens tell us what they think about mental health days in school](https://i-d.vice.com/en_us/article/evjqd4/5-teens-tell-us-what-they-think-about-mental-health-days-in-school)
