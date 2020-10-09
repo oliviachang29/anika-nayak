@@ -128,6 +128,8 @@ permalink: "/words"
 
 [Is a Vegan Diet Safe For Children? A Pediatrician Weighs In](https://thebeet.com/is-a-vegan-diet-safe-for-children-a-pediatrician-weighs-in/ "Is a Vegan Diet Safe For Children? A Pediatrician Weighs In")
 
+[Simple Tips to Live More Sustainably, From an Environmental Educator](https://thebeet.com/simple-tips-to-live-more-sustainably-from-an-environmental-educator/ "Simple Tips to Live More Sustainably, From an Environmental Educator")
+
 #### The Well
 
 [Empathy Matters More Than Ever This Election Season](https://www.the-well.com/editorial/how-to-cultivate-empathy-this-election-season "Empathy Matters More Than Ever This Election Season")
