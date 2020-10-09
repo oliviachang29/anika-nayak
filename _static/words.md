@@ -50,6 +50,10 @@ permalink: "/words"
 
 [12 Young Women Reflect On Ruth Bader Ginsburg's Legacy & How To Keep Fighting](https://www.elitedaily.com/p/12-young-women-reflect-on-ruth-bader-ginsburgs-legacy-how-to-keep-fighting-35340553 "12 Young Women Reflect On Ruth Bader Ginsburg's Legacy & How To Keep Fighting")
 
+#### Folks
+
+[What You Think Is Your Greatest Weakness Is Really Your Superpower](https://folks.pillpack.com/what-you-think-is-your-greatest-weakness-is-really-your-superpower/ "What You Think Is Your Greatest Weakness Is Really Your Superpower")
+
 #### Greatist
 
 [5 Things to Consider Before Trying Your Friend's Skin Care](https://greatist.com/health/sharing-skin-care "5 Things to Consider Before Trying Your Friend's Skin Care")
