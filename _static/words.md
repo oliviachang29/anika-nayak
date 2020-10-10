@@ -6,7 +6,7 @@ title: Words
 permalink: "/words"
 
 ---
-#### Architectural Digest
+#### **Architectural Digest**
 
 [5 Easy Steps You Can Take at Home to Reduce Anxiety](https://www.architecturaldigest.com/story/how-to-manage-anxiety-at-home "5 Easy Steps You Can Take at Home to Reduce Anxiety")
 
