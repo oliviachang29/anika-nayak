@@ -86,6 +86,10 @@ permalink: "/words"
 
 [5 Health Risks of Loneliness — and How to Cope When You Feel Alone](https://www.livestrong.com/article/13727485-loneliness-health-risks/ "5 Health Risks of Loneliness — and How to Cope When You Feel Alone")
 
+#### MedTruth
+
+[Could a Proposed Regulation Worsen Transgender Mental Health?](https://medtruth.com/articles/patient-stories/could-a-proposed-regulation-worsen-transgender-mental-health/ "Could a Proposed Regulation Worsen Transgender Mental Health?")
+
 #### Plantie
 
 [Ecotherapy: A Scientifically-Proven Method To Improve Your Wellbeing](https://plantie.com/ecotherapy-a-scientifically-proven-method-to-improve-your-wellbeing/ "Ecotherapy: A Scientifically-Proven Method To Improve Your Wellbeing")
