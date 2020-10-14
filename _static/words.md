@@ -20,6 +20,8 @@ permalink: "/words"
 
 [You Should Absolutely Take a Break Right Now—And Here’s the Best Way to Do It](https://www.architecturaldigest.com/story/take-a-break-mental-health-screen-time "You Should Absolutely Take a Break Right Now—And Here’s the Best Way to Do It")
 
+[5 Ways to Get Involved in the Election From Your Home](https://www.architecturaldigest.com/story/vote-by-mail-election-from-home "5 Ways to Get Involved in the Election From Your Home")
+
 #### Because Health
 
 [How Psychological Stress Impacts Immunity and What You Can Do to Cope with Stress](https://www.becausehealth.com/blog/how-psychological-stress-impacts-immunity-and-what-you-can-do-to-improve-immunity "How Psychological Stress Impacts Immunity and What You Can Do to Cope with Stress")
