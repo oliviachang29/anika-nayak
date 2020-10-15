@@ -28,6 +28,8 @@ permalink: "/words"
 
 [3 Simple Exercises to Boost Your Immune System During COVID-19](https://www.becausehealth.com/blog/3-simple-exercises-to-boost-your-immune-system "3 Simple Exercises to Boost Your Immune System During COVID-19")
 
+[How to Help Seniors Navigate Their Telehealth Appointment](https://www.becausehealth.com/blog/how-to-help-seniors-navigate-their-telehealth-appointment "How to help seniors navigate their telehealth appointment ")
+
 #### Bernard & Hawkes
 
 [How a Therapist Is Coping With the Pandemic](https://bernardandhawkes.com/articles/how-a-therapist-is-coping-with-the-pandemic-alyssa-mancao "How a Therapist Is Coping With the Pandemic")
