@@ -108,6 +108,8 @@ permalink: "/words"
 
 [How to Cope With Grief During the COVID-19 Pandemic](https://publicgoodsdev.wpengine.com/how-to-cope-with-grief-during-the-covid-19-pandemic/ "How to Cope With Grief During the COVID-19 Pandemic")
 
+[How to Deal With Your Mental Health After a Layoff](https://blog.publicgoods.com/how-to-deal-with-your-mental-health-after-a-layoff/ "How to Deal With Your Mental Health After a Layoff")
+
 #### Rewire
 
 [7 Students Share Their Plans for a COVID-Inspired Gap Year](https://www.rewire.org/7-students-share-their-gap-year-plans/ "7 Students Share Their Plans for a COVID-Inspired Gap Year")
@@ -137,6 +139,8 @@ permalink: "/words"
 [Is a Vegan Diet Safe For Children? A Pediatrician Weighs In](https://thebeet.com/is-a-vegan-diet-safe-for-children-a-pediatrician-weighs-in/ "Is a Vegan Diet Safe For Children? A Pediatrician Weighs In")
 
 [Simple Tips to Live More Sustainably, From an Environmental Educator](https://thebeet.com/simple-tips-to-live-more-sustainably-from-an-environmental-educator/ "Simple Tips to Live More Sustainably, From an Environmental Educator")
+
+[10 Anti-Inflammatory Foods You Should Be Eating Right Now](https://thebeet.com/10-anti-inflammatory-foods-you-should-be-eating-right-now/ "10 Anti-Inflammatory Foods You Should Be Eating Right Now")
 
 #### The Well
 
