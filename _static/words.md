@@ -142,6 +142,8 @@ permalink: "/words"
 
 [10 Anti-Inflammatory Foods You Should Be Eating Right Now](https://thebeet.com/10-anti-inflammatory-foods-you-should-be-eating-right-now/ "10 Anti-Inflammatory Foods You Should Be Eating Right Now")
 
+[5 Tips to Help Transition Your Family to a Plant-Based Lifestyle](https://thebeet.com/5-tips-to-help-transition-your-family-to-a-plant-based-lifestyle/ "5 Tips to Help Transition Your Family to a Plant-Based Lifestyle")
+
 #### The Well
 
 [Empathy Matters More Than Ever This Election Season](https://www.the-well.com/editorial/how-to-cultivate-empathy-this-election-season "Empathy Matters More Than Ever This Election Season")
