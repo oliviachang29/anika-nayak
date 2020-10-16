@@ -90,6 +90,10 @@ permalink: "/words"
 
 [5 Health Risks of Loneliness — and How to Cope When You Feel Alone](https://www.livestrong.com/article/13727485-loneliness-health-risks/ "5 Health Risks of Loneliness — and How to Cope When You Feel Alone")
 
+[7 Ways to Manage Arthritis Pain and Stiffness](https://www.livestrong.com/article/13728520-arthritis-pain-relief/ "7 Ways to Manage Arthritis Pain and Stiffness")
+
+[5 Strength-Training Tips for People With Arthritis](https://www.livestrong.com/article/13728601-weight-lifting-arthritis/ "5 Strength-Training Tips for People With Arthritis")
+
 #### MedTruth
 
 [Could a Proposed Regulation Worsen Transgender Mental Health?](https://medtruth.com/articles/patient-stories/could-a-proposed-regulation-worsen-transgender-mental-health/ "Could a Proposed Regulation Worsen Transgender Mental Health?")
