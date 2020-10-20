@@ -108,6 +108,8 @@ permalink: "/words"
 
 [Should You Be Getting The Winter Flu Vaccine Amidst A Global Pandemic?](https://plantie.com/winter-flu-vaccine-amidst-a-global-pandemic/ "SOULD YOU BE GETTING THE WINTER FLU VACCINE AMIDST A GLOBAL PANDEMIC?")
 
+[5 Myth-Busting Facts About A Plant-Based Diet](https://plantie.com/myth-busting-facts-about-a-plant-based-diet/ "5 Myth-Busting Facts About A Plant-Based Diet")
+
 #### Public Goods
 
 [How to Cope With Grief During the COVID-19 Pandemic](https://publicgoodsdev.wpengine.com/how-to-cope-with-grief-during-the-covid-19-pandemic/ "How to Cope With Grief During the COVID-19 Pandemic")
