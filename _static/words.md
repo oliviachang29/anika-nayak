@@ -120,6 +120,8 @@ permalink: "/words"
 
 [7 Students Share Their Plans for a COVID-Inspired Gap Year](https://www.rewire.org/7-students-share-their-gap-year-plans/ "7 Students Share Their Plans for a COVID-Inspired Gap Year")
 
+[How to Cope With Reemergence Anxiety During COVID](https://www.rewire.org/cope-covid-reemergence-anxiety/ "How to Cope With Reemergence Anxiety During COVID")
+
 #### SELF
 
 [10 Ways to Resist the Urge to Self-Harm](https://www.self.com/story/self-harm-alternatives "10 Ways to Resist the Urge to Self-Harm")
