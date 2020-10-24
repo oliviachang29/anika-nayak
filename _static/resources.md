@@ -23,4 +23,4 @@ When I first started freelancing, I did not know of many resources in the space.
 
 ##### **Webinars**
 
-[**How To Pitch To Publications**](https://www.instagram.com/tv/CExTySaAmnG/?fbclid=IwAR1xjmOHqVzUrckmaPfq8cI1OTeRe1oj7KRqiRMmHVCtwMlIi87a7r0ulFg) - A workshop hosted by [The Young Writers' Initiative (TYWI)](http://tywi.org/) featuring [Lola Méndez](https://lolaannmendez.com/), a freelance journalist and full-time globe trotter. 
+[**How To Pitch To Publications**](https://www.instagram.com/tv/CExTySaAmnG/?fbclid=IwAR1xjmOHqVzUrckmaPfq8cI1OTeRe1oj7KRqiRMmHVCtwMlIi87a7r0ulFg) - A workshop hosted by [The Young Writers' Initiative (TYWI)](http://tywi.org/) and led by [Lola Méndez](https://lolaannmendez.com/), a freelance journalist and full-time globe trotter. 
