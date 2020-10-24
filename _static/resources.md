@@ -29,4 +29,4 @@ When I first started freelancing, I did not know of many resources in the space.
 
 [**The Writers’ Co-op Podcast**](https://www.thewriterscooppod.com/) - An audio career handbook for freelance creatives, hosted by [Jenni Gritters](http://jennigritters.com/) and [Wudan Yan](http://www.wudanyan.com/).
 
-[**She Chat Podcast Episode #19**](https://podcasts.apple.com/us/podcast/anika-nayak-how-to-get-your-articles-published-in-mainstream/id1505540169?i=1000493918317) - In this episode, I spoke to host Agnes Mar on the importance of diverse voices in journalism and tips on entering the media industry. 
+[**She Chat Podcast Episode #19**](https://podcasts.apple.com/us/podcast/anika-nayak-how-to-get-your-articles-published-in-mainstream/id1505540169?i=1000493918317) - In this episode, I spoke to host [Agnes Mar](https://www.linkedin.com/in/agnesmar/) on the importance of diverse voices in journalism and tips on entering the media industry. 
