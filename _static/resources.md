@@ -9,9 +9,7 @@ menu:
     weight: 3
 
 ---
-### **Resources**
-
-#### Freelance Writing
+### Freelance Writing
 
 When I first started freelancing, I did not know of many resources in the space. I soon opened my door to a world full of helpful guides, webinars, and articles. Here are a few recommended resources on how to start freelance writing: 
 
@@ -21,7 +19,7 @@ When I first started freelancing, I did not know of many resources in the space.
 
 [**Bizzy Coy's super secret guide to freelance copywriting**](https://docs.google.com/document/d/1Wz9gjS_TOm1VO9VJIeH-UfgkcIqJeRq8jbIi7c7r8b4/edit?usp=sharing) - A guide created by Bizzy Coy, a freelance copywriter, humor writer and public speaker. 
 
-##### **Webinars**
+##### Webinars
 
 [**How To Pitch To Publications**](https://www.instagram.com/tv/CExTySaAmnG/?fbclid=IwAR1xjmOHqVzUrckmaPfq8cI1OTeRe1oj7KRqiRMmHVCtwMlIi87a7r0ulFg) - A workshop hosted by [The Young Writers' Initiative (TYWI)](http://tywi.org/) and led by [Lola Méndez](https://lolaannmendez.com/), a freelance journalist and full-time globe trotter. 
 
