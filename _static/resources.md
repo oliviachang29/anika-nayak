@@ -13,7 +13,7 @@ menu:
 
 When I first started freelancing, I did not know of many resources in the space. I soon opened my door to a world full of helpful guides and webinars, some of which I have developed for others. Here are a few recommended resources on how to start freelance writing: 
 
-##### Guides
+> ##### Guides
 
 [**Chelsea’s Guide To Freelancing**](https://docs.google.com/document/d/1iMKXNCxHlyLBxo7VZZQYYdil0Be_9CdD7jxfx_EjTSY/edit?usp=sharing "Chelsea’s Guide To Freelancing") - A guide created by [Chelsea Cirruzzo](https://chelseacirruzzo.com/ "Chelsea Cirruzzo"), a health policy reporter based in Washington D.C. 
 
