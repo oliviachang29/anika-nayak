@@ -54,6 +54,8 @@ permalink: "/words"
 
 [12 Young Women Reflect On Ruth Bader Ginsburg's Legacy & How To Keep Fighting](https://www.elitedaily.com/p/12-young-women-reflect-on-ruth-bader-ginsburgs-legacy-how-to-keep-fighting-35340553 "12 Young Women Reflect On Ruth Bader Ginsburg's Legacy & How To Keep Fighting")
 
+[2020's First-Time Voters Are So Hyped To Cast Their Ballots](https://www.elitedaily.com/p/2020s-first-time-voters-are-so-hyped-to-cast-their-ballots-41046811 "2020's First-Time Voters Are So Hyped To Cast Their Ballots")
+
 #### Folks
 
 [What You Think Is Your Greatest Weakness Is Really Your Superpower](https://folks.pillpack.com/what-you-think-is-your-greatest-weakness-is-really-your-superpower/ "What You Think Is Your Greatest Weakness Is Really Your Superpower")
