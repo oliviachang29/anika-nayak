@@ -154,6 +154,8 @@ permalink: "/words"
 
 [5 Tips to Help Transition Your Family to a Plant-Based Lifestyle](https://thebeet.com/5-tips-to-help-transition-your-family-to-a-plant-based-lifestyle/ "5 Tips to Help Transition Your Family to a Plant-Based Lifestyle")
 
+[This Plant-Forward Diet Boosts Your Brain Function and Fights Memory Loss](https://thebeet.com/this-plant-forward-diet-boosts-your-brain-function-and-fights-memory-loss/)
+
 #### The Well
 
 [Empathy Matters More Than Ever This Election Season](https://www.the-well.com/editorial/how-to-cultivate-empathy-this-election-season "Empathy Matters More Than Ever This Election Season")
