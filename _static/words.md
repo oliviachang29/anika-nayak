@@ -96,6 +96,8 @@ permalink: "/words"
 
 [5 Strength-Training Tips for People With Arthritis](https://www.livestrong.com/article/13728601-weight-lifting-arthritis/ "5 Strength-Training Tips for People With Arthritis")
 
+[A 2-Minute Color Breathing Exercise to Banish Negative Thoughts](https://www.livestrong.com/article/13729550-color-breathing-meditation/)
+
 #### MedTruth
 
 [Could a Proposed Regulation Worsen Transgender Mental Health?](https://medtruth.com/articles/patient-stories/could-a-proposed-regulation-worsen-transgender-mental-health/ "Could a Proposed Regulation Worsen Transgender Mental Health?")
