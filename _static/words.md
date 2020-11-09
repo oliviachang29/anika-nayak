@@ -30,6 +30,8 @@ permalink: "/words"
 
 [How to Help Seniors Navigate Their Telehealth Appointment](https://www.becausehealth.com/blog/how-to-help-seniors-navigate-their-telehealth-appointment "How to help seniors navigate their telehealth appointment ")
 
+[4 lifestyle changes that can help reverse prediabetes naturally](https://www.becausehealth.com/blog/4-lifestyle-changes-that-can-help-reverse-prediabetes-naturally "4 lifestyle changes that can help reverse prediabetes naturally")
+
 #### Bernard & Hawkes
 
 [How a Therapist Is Coping With the Pandemic](https://bernardandhawkes.com/articles/how-a-therapist-is-coping-with-the-pandemic-alyssa-mancao "How a Therapist Is Coping With the Pandemic")
