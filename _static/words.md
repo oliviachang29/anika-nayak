@@ -116,6 +116,8 @@ permalink: "/words"
 
 [5 Myth-Busting Facts About A Plant-Based Diet](https://plantie.com/myth-busting-facts-about-a-plant-based-diet/ "5 Myth-Busting Facts About A Plant-Based Diet")
 
+[Reduce Your Carbon Footprint With These Food & Kitchen Hacks](https://plantie.com/reduce-your-carbon-footprint-with-these-food-kitchen-hacks/?utm_source=mailchimp&utm_medium=organic&utm_term=title&utm_content=transmissions21&utm_campaign=newsletter)
+
 #### Public Goods
 
 [How to Cope With Grief During the COVID-19 Pandemic](https://publicgoodsdev.wpengine.com/how-to-cope-with-grief-during-the-covid-19-pandemic/ "How to Cope With Grief During the COVID-19 Pandemic")
