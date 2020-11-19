@@ -22,6 +22,8 @@ permalink: "/words"
 
 [5 Ways to Get Involved in the Election From Your Home](https://www.architecturaldigest.com/story/vote-by-mail-election-from-home "5 Ways to Get Involved in the Election From Your Home")
 
+[How to Cope With Homesickness Over the Holidays](https://www.architecturaldigest.com/story/alone-on-thanksgiving-holidays-homesickness)
+
 #### Because Health
 
 [How Psychological Stress Impacts Immunity and What You Can Do to Cope with Stress](https://www.becausehealth.com/blog/how-psychological-stress-impacts-immunity-and-what-you-can-do-to-improve-immunity "How Psychological Stress Impacts Immunity and What You Can Do to Cope with Stress")
