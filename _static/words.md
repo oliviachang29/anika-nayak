@@ -62,6 +62,10 @@ permalink: "/words"
 
 [What You Think Is Your Greatest Weakness Is Really Your Superpower](https://folks.pillpack.com/what-you-think-is-your-greatest-weakness-is-really-your-superpower/ "What You Think Is Your Greatest Weakness Is Really Your Superpower")
 
+#### GloWell Magazine
+
+[Feeling Burned Out? Here are 7 Coping Mechanisms to Help You Recover](https://www.glowellmag.com/feeling-burned-out-here-are-7-coping-mechanisms-to-help-you-recover/)
+
 #### Greatist
 
 [5 Things to Consider Before Trying Your Friend's Skin Care](https://greatist.com/health/sharing-skin-care "5 Things to Consider Before Trying Your Friend's Skin Care")
