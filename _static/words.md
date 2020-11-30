@@ -170,6 +170,14 @@ permalink: "/words"
 
 [This Plant-Forward Diet Boosts Your Brain Function and Fights Memory Loss](https://thebeet.com/this-plant-forward-diet-boosts-your-brain-function-and-fights-memory-loss/)
 
+[These 5 Plant-Based Foods Can Naturally Help Relieve PMS Symptoms](https://thebeet.com/these-5-plant-based-foods-can-naturally-help-relieve-pms-symptoms/)
+
+[This Doc Reversed Pre-Diabetes by Going Plant-Based & Exercising](https://thebeet.com/this-doc-reversed-pre-diabetes-by-going-plant-based-exercising-heres-how/)
+
+[How to Host the Best Vegan Thanksgiving Ever. Advice from a Plant-Based Chef](https://thebeet.com/a-plant-based-chefs-advice-for-hosting-the-best-vegan-thanksgiving-ever/)
+
+[LUSH Cosmetics is Celebrating ‘Green Friday’ With New Zero-Waste Products](https://thebeet.com/lush-cosmetics-is-celebrating-green-friday-with-new-zero-waste-products/)
+
 #### The Well
 
 [Empathy Matters More Than Ever This Election Season](https://www.the-well.com/editorial/how-to-cultivate-empathy-this-election-season "Empathy Matters More Than Ever This Election Season")
