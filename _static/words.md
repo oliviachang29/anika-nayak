@@ -38,6 +38,8 @@ permalink: "/words"
 
 [How a Therapist Is Coping With the Pandemic](https://bernardandhawkes.com/articles/how-a-therapist-is-coping-with-the-pandemic-alyssa-mancao "How a Therapist Is Coping With the Pandemic")
 
+[The Holidays May Look a Little Different This Year — Here’s How to Navigate the Season](https://bernardandhawkes.com/articles/navigating-holidays-during-covid-pandemic)
+
 #### Business Insider
 
 [We finally opened our restaurant after the COVID-19 shutdown — a day later, it was damaged during the protests. Here's why we still stand in solidarity with protesters.](https://www.businessinsider.com/florida-restaurant-was-looted-but-owner-still-support-protesters-2020-6 "We finally opened our restaurant after the COVID-19 shutdown — a day later, it was damaged during the protests. Here's why we still stand in solidarity with protesters.")
@@ -108,6 +110,10 @@ permalink: "/words"
 
 [A 2-Minute Color Breathing Exercise to Banish Negative Thoughts](https://www.livestrong.com/article/13729550-color-breathing-meditation/)
 
+[5 Ways to Reward Yourself That Have Nothing to Do With Food](https://www.livestrong.com/article/13729555-nonfood-weight-loss-rewards/)
+
+[Knee Pain After Running? Here’s What Your Body Is Trying to Tell You](https://www.livestrong.com/article/13728168-knee-pain-after-running-causes/)
+
 #### MedTruth
 
 [Could a Proposed Regulation Worsen Transgender Mental Health?](https://medtruth.com/articles/patient-stories/could-a-proposed-regulation-worsen-transgender-mental-health/ "Could a Proposed Regulation Worsen Transgender Mental Health?")
@@ -177,6 +183,8 @@ permalink: "/words"
 [How to Host the Best Vegan Thanksgiving Ever. Advice from a Plant-Based Chef](https://thebeet.com/a-plant-based-chefs-advice-for-hosting-the-best-vegan-thanksgiving-ever/)
 
 [LUSH Cosmetics is Celebrating ‘Green Friday’ With New Zero-Waste Products](https://thebeet.com/lush-cosmetics-is-celebrating-green-friday-with-new-zero-waste-products/)
+
+[This Influencer Reversed Her Prediabetes and Lost 80 Pounds on a Vegan Diet](https://thebeet.com/this-influencer-reversed-her-prediabetes-and-lost-80-pounds-on-a-vegan-diet/)
 
 #### The Well
 
