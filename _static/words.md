@@ -8,6 +8,8 @@ permalink: "/words"
 ---
 For a full list of all of my public articles, please reference [this document](https://docs.google.com/document/d/1g4QJG3FuIL5GMCMC1Brs1aGoTCZkzQimMpRumFI8RLE/edit?usp=sharing). 
 
+I am currently a contributor for News Break, Healthified Magazine, and Forbes (coming soon!).
+
 Featured Clips: 
 
 ### **Food and Nutrition**
